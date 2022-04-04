@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/bin/Debug/netcoreapp3.1/5.DecryptingMessages.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/bin/Debug/netcoreapp3.1/5.DecryptingMessages.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/bin/Debug/netcoreapp3.1/5.DecryptingMessages.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/bin/Debug/netcoreapp3.1/5.DecryptingMessages.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/bin/Debug/netcoreapp3.1/5.DecryptingMessages.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/obj/Debug/netcoreapp3.1/5.DecryptingMessages.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/obj/Debug/netcoreapp3.1/5.DecryptingMessages.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/obj/Debug/netcoreapp3.1/5.DecryptingMessages.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/obj/Debug/netcoreapp3.1/5.DecryptingMessages.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/obj/Debug/netcoreapp3.1/5.DecryptingMessages.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/obj/Debug/netcoreapp3.1/5.DecryptingMessages.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/obj/Debug/netcoreapp3.1/5.DecryptingMessages.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/5.DecryptingMessages/5.DecryptingMessages/obj/Debug/netcoreapp3.1/5.DecryptingMessages.genruntimeconfig.cache

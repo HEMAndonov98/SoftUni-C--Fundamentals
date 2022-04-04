@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6DF43F03-0E37-4810-B0C4-6CE66D12C045}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="4.PrintingTriangle/Program.cs">
+    <Files>
+      <File FileName="4.PrintingTriangle/Program.cs" Line="33" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.4.PrintingTriangle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

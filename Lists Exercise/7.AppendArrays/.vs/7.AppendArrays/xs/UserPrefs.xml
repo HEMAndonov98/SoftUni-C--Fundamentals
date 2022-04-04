@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{171F26A1-0CCA-4745-8DB0-56473817EC90}|Default">
+  <MonoDevelop.Ide.ItemProperties.7.AppendArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="7.AppendArrays/Program.cs">
+    <Files>
+      <File FileName="7.AppendArrays/Program.cs" Line="6" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../5.BombNumbers/5.BombNumbers/Program.cs" line="20" column="21" endLine="20" endColumn="26" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+    <Watch file="../../../../5.BombNumbers/5.BombNumbers/Program.cs" line="26" column="29" endLine="26" endColumn="38" offsetX="-1" offsetY="-1" expression="j" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

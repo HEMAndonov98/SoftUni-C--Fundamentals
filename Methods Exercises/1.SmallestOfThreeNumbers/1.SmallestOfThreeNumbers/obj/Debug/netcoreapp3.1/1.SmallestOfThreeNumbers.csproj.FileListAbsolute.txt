@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/bin/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/1.SmallestOfThreeNumbers/1.SmallestOfThreeNumbers/obj/Debug/netcoreapp3.1/1.SmallestOfThreeNumbers.genruntimeconfig.cache

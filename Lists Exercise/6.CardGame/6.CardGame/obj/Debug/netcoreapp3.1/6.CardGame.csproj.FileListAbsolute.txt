@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/bin/Debug/netcoreapp3.1/6.CardGame.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/bin/Debug/netcoreapp3.1/6.CardGame.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/bin/Debug/netcoreapp3.1/6.CardGame.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/bin/Debug/netcoreapp3.1/6.CardGame.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/bin/Debug/netcoreapp3.1/6.CardGame.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/obj/Debug/netcoreapp3.1/6.CardGame.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/obj/Debug/netcoreapp3.1/6.CardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/obj/Debug/netcoreapp3.1/6.CardGame.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/obj/Debug/netcoreapp3.1/6.CardGame.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/obj/Debug/netcoreapp3.1/6.CardGame.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/obj/Debug/netcoreapp3.1/6.CardGame.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/obj/Debug/netcoreapp3.1/6.CardGame.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/6.CardGame/6.CardGame/obj/Debug/netcoreapp3.1/6.CardGame.genruntimeconfig.cache

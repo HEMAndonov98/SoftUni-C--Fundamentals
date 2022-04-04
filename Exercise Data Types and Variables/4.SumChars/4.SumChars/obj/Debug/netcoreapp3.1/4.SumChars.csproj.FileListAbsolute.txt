@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/bin/Debug/netcoreapp3.1/4.SumChars.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/bin/Debug/netcoreapp3.1/4.SumChars.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/bin/Debug/netcoreapp3.1/4.SumChars.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/bin/Debug/netcoreapp3.1/4.SumChars.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/bin/Debug/netcoreapp3.1/4.SumChars.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/obj/Debug/netcoreapp3.1/4.SumChars.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/obj/Debug/netcoreapp3.1/4.SumChars.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/obj/Debug/netcoreapp3.1/4.SumChars.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/obj/Debug/netcoreapp3.1/4.SumChars.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/obj/Debug/netcoreapp3.1/4.SumChars.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/obj/Debug/netcoreapp3.1/4.SumChars.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/obj/Debug/netcoreapp3.1/4.SumChars.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/4.SumChars/4.SumChars/obj/Debug/netcoreapp3.1/4.SumChars.genruntimeconfig.cache

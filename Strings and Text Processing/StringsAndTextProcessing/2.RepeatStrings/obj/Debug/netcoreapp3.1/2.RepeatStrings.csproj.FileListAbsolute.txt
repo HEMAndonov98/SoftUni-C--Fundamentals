@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/bin/Debug/netcoreapp3.1/2.RepeatStrings.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/bin/Debug/netcoreapp3.1/2.RepeatStrings.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/bin/Debug/netcoreapp3.1/2.RepeatStrings.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/bin/Debug/netcoreapp3.1/2.RepeatStrings.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/bin/Debug/netcoreapp3.1/2.RepeatStrings.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/obj/Debug/netcoreapp3.1/2.RepeatStrings.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/obj/Debug/netcoreapp3.1/2.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/obj/Debug/netcoreapp3.1/2.RepeatStrings.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/obj/Debug/netcoreapp3.1/2.RepeatStrings.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/obj/Debug/netcoreapp3.1/2.RepeatStrings.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/obj/Debug/netcoreapp3.1/2.RepeatStrings.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/obj/Debug/netcoreapp3.1/2.RepeatStrings.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/2.RepeatStrings/obj/Debug/netcoreapp3.1/2.RepeatStrings.genruntimeconfig.cache

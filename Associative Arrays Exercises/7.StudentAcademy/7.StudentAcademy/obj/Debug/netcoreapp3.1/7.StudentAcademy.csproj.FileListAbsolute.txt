@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/bin/Debug/netcoreapp3.1/7.StudentAcademy.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/bin/Debug/netcoreapp3.1/7.StudentAcademy.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/bin/Debug/netcoreapp3.1/7.StudentAcademy.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/bin/Debug/netcoreapp3.1/7.StudentAcademy.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/bin/Debug/netcoreapp3.1/7.StudentAcademy.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/obj/Debug/netcoreapp3.1/7.StudentAcademy.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/obj/Debug/netcoreapp3.1/7.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/obj/Debug/netcoreapp3.1/7.StudentAcademy.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/obj/Debug/netcoreapp3.1/7.StudentAcademy.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/obj/Debug/netcoreapp3.1/7.StudentAcademy.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/obj/Debug/netcoreapp3.1/7.StudentAcademy.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/obj/Debug/netcoreapp3.1/7.StudentAcademy.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/7.StudentAcademy/7.StudentAcademy/obj/Debug/netcoreapp3.1/7.StudentAcademy.genruntimeconfig.cache

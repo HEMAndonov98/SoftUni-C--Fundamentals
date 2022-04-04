@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/bin/Debug/net5.0/2.Race.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/bin/Debug/net5.0/2.Race.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/bin/Debug/net5.0/2.Race.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/bin/Debug/net5.0/2.Race.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/bin/Debug/net5.0/ref/2.Race.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/bin/Debug/net5.0/2.Race.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/obj/Debug/net5.0/2.Race.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/obj/Debug/net5.0/2.Race.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/obj/Debug/net5.0/2.Race.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/obj/Debug/net5.0/2.Race.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/obj/Debug/net5.0/2.Race.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/obj/Debug/net5.0/2.Race.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/obj/Debug/net5.0/ref/2.Race.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/obj/Debug/net5.0/2.Race.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/2.Race/obj/Debug/net5.0/2.Race.genruntimeconfig.cache

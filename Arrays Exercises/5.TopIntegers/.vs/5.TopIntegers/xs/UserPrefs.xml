@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8C03A4BA-987B-40A9-84B9-4F4533D15088}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="5.TopIntegers/Program.cs">
+    <Files>
+      <File FileName="5.TopIntegers/Program.cs" Line="24" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.5.TopIntegers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/Program.cs" relfile="5.TopIntegers/Program.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

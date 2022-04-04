@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/bin/Debug/netcoreapp3.1/5.TopIntegers.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/bin/Debug/netcoreapp3.1/5.TopIntegers.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/bin/Debug/netcoreapp3.1/5.TopIntegers.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/bin/Debug/netcoreapp3.1/5.TopIntegers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/bin/Debug/netcoreapp3.1/5.TopIntegers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/obj/Debug/netcoreapp3.1/5.TopIntegers.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/obj/Debug/netcoreapp3.1/5.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/obj/Debug/netcoreapp3.1/5.TopIntegers.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/obj/Debug/netcoreapp3.1/5.TopIntegers.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/obj/Debug/netcoreapp3.1/5.TopIntegers.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/obj/Debug/netcoreapp3.1/5.TopIntegers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/obj/Debug/netcoreapp3.1/5.TopIntegers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/5.TopIntegers/5.TopIntegers/obj/Debug/netcoreapp3.1/5.TopIntegers.genruntimeconfig.cache

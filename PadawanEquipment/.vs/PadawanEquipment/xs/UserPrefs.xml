@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E40EE64E-4820-462D-81EA-A711F8435463}|Default">
+  <MonoDevelop.Ide.ItemProperties.PadawanEquipment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PadawanEquipment/Program.cs">
+    <Files>
+      <File FileName="PadawanEquipment/Program.cs" Line="31" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

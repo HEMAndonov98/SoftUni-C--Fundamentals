@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B5E512F0-0C10-4F45-923A-FBE52ACEC4F8}|Default">
+  <MonoDevelop.Ide.ItemProperties.4.SumChars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="4.SumChars/Program.cs">
+    <Files>
+      <File FileName="4.SumChars/Program.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

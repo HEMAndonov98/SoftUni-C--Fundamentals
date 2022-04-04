@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/bin/Debug/netcoreapp3.1/1.RandomizeWords.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/bin/Debug/netcoreapp3.1/1.RandomizeWords.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/bin/Debug/netcoreapp3.1/1.RandomizeWords.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/bin/Debug/netcoreapp3.1/1.RandomizeWords.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/bin/Debug/netcoreapp3.1/1.RandomizeWords.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/obj/Debug/netcoreapp3.1/1.RandomizeWords.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/obj/Debug/netcoreapp3.1/1.RandomizeWords.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/obj/Debug/netcoreapp3.1/1.RandomizeWords.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/obj/Debug/netcoreapp3.1/1.RandomizeWords.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/obj/Debug/netcoreapp3.1/1.RandomizeWords.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/obj/Debug/netcoreapp3.1/1.RandomizeWords.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/obj/Debug/netcoreapp3.1/1.RandomizeWords.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/1.RandomizeWords/1.RandomizeWords/obj/Debug/netcoreapp3.1/1.RandomizeWords.genruntimeconfig.cache

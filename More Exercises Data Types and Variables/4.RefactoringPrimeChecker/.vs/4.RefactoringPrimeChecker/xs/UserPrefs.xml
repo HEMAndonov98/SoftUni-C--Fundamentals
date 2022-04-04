@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9AAFD8CD-5F2D-4839-8893-0598C4C36A65}|Default">
+  <MonoDevelop.Ide.ItemProperties.4.RefactoringPrimeChecker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="4.RefactoringPrimeChecker/Program.cs">
+    <Files>
+      <File FileName="4.RefactoringPrimeChecker/Program.cs" Line="25" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

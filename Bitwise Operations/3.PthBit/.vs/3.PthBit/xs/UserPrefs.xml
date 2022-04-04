@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{590861BB-D2E0-4987-B149-E0B384B54A89}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="3.PthBit/Program.cs">
+    <Files>
+      <File FileName="3.PthBit/Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.3.PthBit PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

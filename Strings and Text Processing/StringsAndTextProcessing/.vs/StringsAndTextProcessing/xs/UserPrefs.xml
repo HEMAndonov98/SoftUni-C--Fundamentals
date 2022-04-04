@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9F3572B0-D8E6-4841-9085-53CAEE7EFD26}|Default">
+  <MonoDevelop.Ide.ItemProperties.4.TextFilter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3.Substring PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="5.DigitsLettersAndOther/Program.cs">
+    <Files>
+      <File FileName="5.DigitsLettersAndOther/Program.cs" Line="22" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringsAndTextProcessing" expanded="True">
+            <Node name="4.TextFilter" expanded="True" />
+            <Node name="5.DigitsLettersAndOther" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1.ReverseStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.5.DigitsLettersAndOther PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2.RepeatStrings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

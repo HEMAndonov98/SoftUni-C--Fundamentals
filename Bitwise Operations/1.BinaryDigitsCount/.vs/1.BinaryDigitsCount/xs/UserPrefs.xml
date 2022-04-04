@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E9D2CEE4-5CB3-403F-B21B-9BE1C5146CC7}|Default">
+  <MonoDevelop.Ide.ItemProperties.1.BinaryDigitsCount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.BinaryDigitsCount/Program.cs">
+    <Files>
+      <File FileName="1.BinaryDigitsCount/Program.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

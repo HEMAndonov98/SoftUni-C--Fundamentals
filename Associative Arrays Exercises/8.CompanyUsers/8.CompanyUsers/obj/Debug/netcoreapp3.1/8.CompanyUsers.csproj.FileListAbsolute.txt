@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/bin/Debug/netcoreapp3.1/8.CompanyUsers.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/bin/Debug/netcoreapp3.1/8.CompanyUsers.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/bin/Debug/netcoreapp3.1/8.CompanyUsers.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/bin/Debug/netcoreapp3.1/8.CompanyUsers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/bin/Debug/netcoreapp3.1/8.CompanyUsers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/obj/Debug/netcoreapp3.1/8.CompanyUsers.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/obj/Debug/netcoreapp3.1/8.CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/obj/Debug/netcoreapp3.1/8.CompanyUsers.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/obj/Debug/netcoreapp3.1/8.CompanyUsers.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/obj/Debug/netcoreapp3.1/8.CompanyUsers.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/obj/Debug/netcoreapp3.1/8.CompanyUsers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/obj/Debug/netcoreapp3.1/8.CompanyUsers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/8.CompanyUsers/8.CompanyUsers/obj/Debug/netcoreapp3.1/8.CompanyUsers.genruntimeconfig.cache

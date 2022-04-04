@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{312F41CE-5544-46A2-8E90-FDFD1C75B905}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="6.ListManipulation/Program.cs">
+    <Files>
+      <File FileName="6.ListManipulation/Program.cs" Line="40" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.6.ListManipulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

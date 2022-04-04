@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/bin/Debug/netcoreapp3.1/6.MiddleCharacters.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/bin/Debug/netcoreapp3.1/6.MiddleCharacters.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/bin/Debug/netcoreapp3.1/6.MiddleCharacters.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/bin/Debug/netcoreapp3.1/6.MiddleCharacters.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/bin/Debug/netcoreapp3.1/6.MiddleCharacters.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/obj/Debug/netcoreapp3.1/6.MiddleCharacters.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/obj/Debug/netcoreapp3.1/6.MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/obj/Debug/netcoreapp3.1/6.MiddleCharacters.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/obj/Debug/netcoreapp3.1/6.MiddleCharacters.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/obj/Debug/netcoreapp3.1/6.MiddleCharacters.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/obj/Debug/netcoreapp3.1/6.MiddleCharacters.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/obj/Debug/netcoreapp3.1/6.MiddleCharacters.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/6.MiddleCharacters/6.MiddleCharacters/obj/Debug/netcoreapp3.1/6.MiddleCharacters.genruntimeconfig.cache

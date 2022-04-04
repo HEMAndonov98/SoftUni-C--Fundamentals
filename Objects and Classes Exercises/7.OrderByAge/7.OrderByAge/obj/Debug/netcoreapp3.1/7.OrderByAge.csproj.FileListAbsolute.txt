@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/bin/Debug/netcoreapp3.1/7.OrderByAge.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/bin/Debug/netcoreapp3.1/7.OrderByAge.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/bin/Debug/netcoreapp3.1/7.OrderByAge.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/bin/Debug/netcoreapp3.1/7.OrderByAge.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/bin/Debug/netcoreapp3.1/7.OrderByAge.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/obj/Debug/netcoreapp3.1/7.OrderByAge.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/obj/Debug/netcoreapp3.1/7.OrderByAge.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/obj/Debug/netcoreapp3.1/7.OrderByAge.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/obj/Debug/netcoreapp3.1/7.OrderByAge.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/obj/Debug/netcoreapp3.1/7.OrderByAge.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/obj/Debug/netcoreapp3.1/7.OrderByAge.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/obj/Debug/netcoreapp3.1/7.OrderByAge.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/7.OrderByAge/7.OrderByAge/obj/Debug/netcoreapp3.1/7.OrderByAge.genruntimeconfig.cache

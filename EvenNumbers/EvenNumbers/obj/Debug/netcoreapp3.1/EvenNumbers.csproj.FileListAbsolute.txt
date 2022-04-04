@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/bin/Debug/netcoreapp3.1/EvenNumbers.deps.json
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/bin/Debug/netcoreapp3.1/EvenNumbers.runtimeconfig.json
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/bin/Debug/netcoreapp3.1/EvenNumbers.runtimeconfig.dev.json
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/bin/Debug/netcoreapp3.1/EvenNumbers.dll
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/bin/Debug/netcoreapp3.1/EvenNumbers.pdb
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/obj/Debug/netcoreapp3.1/EvenNumbers.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/obj/Debug/netcoreapp3.1/EvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/obj/Debug/netcoreapp3.1/EvenNumbers.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/obj/Debug/netcoreapp3.1/EvenNumbers.AssemblyInfo.cs
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/obj/Debug/netcoreapp3.1/EvenNumbers.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/obj/Debug/netcoreapp3.1/EvenNumbers.dll
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/obj/Debug/netcoreapp3.1/EvenNumbers.pdb
+/Volumes/Extreme SSD/EvenNumbers/EvenNumbers/obj/Debug/netcoreapp3.1/EvenNumbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/bin/Debug/net5.0/8.LettersChangeNumbers.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/bin/Debug/net5.0/8.LettersChangeNumbers.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/bin/Debug/net5.0/8.LettersChangeNumbers.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/bin/Debug/net5.0/8.LettersChangeNumbers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/bin/Debug/net5.0/ref/8.LettersChangeNumbers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/bin/Debug/net5.0/8.LettersChangeNumbers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/obj/Debug/net5.0/8.LettersChangeNumbers.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/obj/Debug/net5.0/8.LettersChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/obj/Debug/net5.0/8.LettersChangeNumbers.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/obj/Debug/net5.0/8.LettersChangeNumbers.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/obj/Debug/net5.0/8.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/obj/Debug/net5.0/8.LettersChangeNumbers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/obj/Debug/net5.0/ref/8.LettersChangeNumbers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/obj/Debug/net5.0/8.LettersChangeNumbers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/8.LettersChangeNumbers/obj/Debug/net5.0/8.LettersChangeNumbers.genruntimeconfig.cache

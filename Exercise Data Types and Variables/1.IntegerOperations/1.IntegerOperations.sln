@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.IntegerOperations", "1.IntegerOperations\1.IntegerOperations.csproj", "{1206016B-637C-4018-AF8D-309DF2347D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1206016B-637C-4018-AF8D-309DF2347D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1206016B-637C-4018-AF8D-309DF2347D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1206016B-637C-4018-AF8D-309DF2347D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1206016B-637C-4018-AF8D-309DF2347D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5523D7C3-8813-4402-9947-AC0F722CD53D}
+	EndGlobalSection
+EndGlobal

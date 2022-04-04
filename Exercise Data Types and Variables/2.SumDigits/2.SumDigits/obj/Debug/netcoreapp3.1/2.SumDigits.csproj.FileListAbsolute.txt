@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/bin/Debug/netcoreapp3.1/2.SumDigits.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/bin/Debug/netcoreapp3.1/2.SumDigits.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/bin/Debug/netcoreapp3.1/2.SumDigits.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/bin/Debug/netcoreapp3.1/2.SumDigits.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/bin/Debug/netcoreapp3.1/2.SumDigits.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/obj/Debug/netcoreapp3.1/2.SumDigits.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/obj/Debug/netcoreapp3.1/2.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/obj/Debug/netcoreapp3.1/2.SumDigits.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/obj/Debug/netcoreapp3.1/2.SumDigits.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/obj/Debug/netcoreapp3.1/2.SumDigits.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/obj/Debug/netcoreapp3.1/2.SumDigits.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/obj/Debug/netcoreapp3.1/2.SumDigits.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/2.SumDigits/2.SumDigits/obj/Debug/netcoreapp3.1/2.SumDigits.genruntimeconfig.cache

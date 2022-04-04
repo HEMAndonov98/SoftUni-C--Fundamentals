@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/bin/Debug/netcoreapp3.1/5.BombNumbers.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/bin/Debug/netcoreapp3.1/5.BombNumbers.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/bin/Debug/netcoreapp3.1/5.BombNumbers.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/bin/Debug/netcoreapp3.1/5.BombNumbers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/bin/Debug/netcoreapp3.1/5.BombNumbers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/obj/Debug/netcoreapp3.1/5.BombNumbers.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/obj/Debug/netcoreapp3.1/5.BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/obj/Debug/netcoreapp3.1/5.BombNumbers.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/obj/Debug/netcoreapp3.1/5.BombNumbers.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/obj/Debug/netcoreapp3.1/5.BombNumbers.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/obj/Debug/netcoreapp3.1/5.BombNumbers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/obj/Debug/netcoreapp3.1/5.BombNumbers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/5.BombNumbers/5.BombNumbers/obj/Debug/netcoreapp3.1/5.BombNumbers.genruntimeconfig.cache

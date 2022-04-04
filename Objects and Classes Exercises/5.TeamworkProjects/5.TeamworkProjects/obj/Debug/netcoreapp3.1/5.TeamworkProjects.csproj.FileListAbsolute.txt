@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/bin/Debug/netcoreapp3.1/5.TeamworkProjects.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/bin/Debug/netcoreapp3.1/5.TeamworkProjects.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/bin/Debug/netcoreapp3.1/5.TeamworkProjects.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/bin/Debug/netcoreapp3.1/5.TeamworkProjects.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/bin/Debug/netcoreapp3.1/5.TeamworkProjects.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/obj/Debug/netcoreapp3.1/5.TeamworkProjects.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/obj/Debug/netcoreapp3.1/5.TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/obj/Debug/netcoreapp3.1/5.TeamworkProjects.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/obj/Debug/netcoreapp3.1/5.TeamworkProjects.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/obj/Debug/netcoreapp3.1/5.TeamworkProjects.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/obj/Debug/netcoreapp3.1/5.TeamworkProjects.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/obj/Debug/netcoreapp3.1/5.TeamworkProjects.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/5.TeamworkProjects/5.TeamworkProjects/obj/Debug/netcoreapp3.1/5.TeamworkProjects.genruntimeconfig.cache

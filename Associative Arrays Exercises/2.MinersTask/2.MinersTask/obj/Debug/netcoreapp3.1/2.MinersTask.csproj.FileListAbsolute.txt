@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/bin/Debug/netcoreapp3.1/2.MinersTask.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/bin/Debug/netcoreapp3.1/2.MinersTask.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/bin/Debug/netcoreapp3.1/2.MinersTask.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/bin/Debug/netcoreapp3.1/2.MinersTask.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/bin/Debug/netcoreapp3.1/2.MinersTask.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/obj/Debug/netcoreapp3.1/2.MinersTask.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/obj/Debug/netcoreapp3.1/2.MinersTask.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/obj/Debug/netcoreapp3.1/2.MinersTask.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/obj/Debug/netcoreapp3.1/2.MinersTask.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/obj/Debug/netcoreapp3.1/2.MinersTask.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/obj/Debug/netcoreapp3.1/2.MinersTask.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/obj/Debug/netcoreapp3.1/2.MinersTask.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/2.MinersTask/2.MinersTask/obj/Debug/netcoreapp3.1/2.MinersTask.genruntimeconfig.cache

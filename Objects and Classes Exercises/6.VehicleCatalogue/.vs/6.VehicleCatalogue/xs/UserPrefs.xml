@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{85BF99E0-6BFA-40C4-B576-122D50B63E35}|Default">
+  <MonoDevelop.Ide.ItemProperties.6.VehicleCatalogue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="6.VehicleCatalogue/Program.cs">
+    <Files>
+      <File FileName="6.VehicleCatalogue/Program.cs" Line="89" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

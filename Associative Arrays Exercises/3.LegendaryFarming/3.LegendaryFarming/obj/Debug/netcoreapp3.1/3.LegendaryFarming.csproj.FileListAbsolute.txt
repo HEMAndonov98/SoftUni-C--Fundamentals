@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/bin/Debug/netcoreapp3.1/3.LegendaryFarming.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/bin/Debug/netcoreapp3.1/3.LegendaryFarming.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/bin/Debug/netcoreapp3.1/3.LegendaryFarming.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/bin/Debug/netcoreapp3.1/3.LegendaryFarming.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/bin/Debug/netcoreapp3.1/3.LegendaryFarming.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/obj/Debug/netcoreapp3.1/3.LegendaryFarming.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/obj/Debug/netcoreapp3.1/3.LegendaryFarming.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/obj/Debug/netcoreapp3.1/3.LegendaryFarming.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/obj/Debug/netcoreapp3.1/3.LegendaryFarming.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/obj/Debug/netcoreapp3.1/3.LegendaryFarming.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/obj/Debug/netcoreapp3.1/3.LegendaryFarming.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/obj/Debug/netcoreapp3.1/3.LegendaryFarming.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/3.LegendaryFarming/3.LegendaryFarming/obj/Debug/netcoreapp3.1/3.LegendaryFarming.genruntimeconfig.cache

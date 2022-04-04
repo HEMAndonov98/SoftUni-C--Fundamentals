@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/bin/Debug/netcoreapp3.1/1.ReverseStrings.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/bin/Debug/netcoreapp3.1/1.ReverseStrings.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/bin/Debug/netcoreapp3.1/1.ReverseStrings.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/bin/Debug/netcoreapp3.1/1.ReverseStrings.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/bin/Debug/netcoreapp3.1/1.ReverseStrings.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/obj/Debug/netcoreapp3.1/1.ReverseStrings.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/obj/Debug/netcoreapp3.1/1.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/obj/Debug/netcoreapp3.1/1.ReverseStrings.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/obj/Debug/netcoreapp3.1/1.ReverseStrings.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/obj/Debug/netcoreapp3.1/1.ReverseStrings.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/obj/Debug/netcoreapp3.1/1.ReverseStrings.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/obj/Debug/netcoreapp3.1/1.ReverseStrings.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/1.ReverseStrings/obj/Debug/netcoreapp3.1/1.ReverseStrings.genruntimeconfig.cache

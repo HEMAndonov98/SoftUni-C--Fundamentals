@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{75B1C2C0-3603-487B-B7BF-C013167264BC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.MultiplyEvenByOdd/Program.cs">
+    <Files>
+      <File FileName="10.MultiplyEvenByOdd/Program.cs" Line="38" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.10.MultiplyEvenByOdd PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

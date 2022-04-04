@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FC45452C-F279-4B54-9FCD-A2BC7A635F4B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.CountCharsInAString/Program.cs">
+    <Files>
+      <File FileName="1.CountCharsInAString/Program.cs" Line="36" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.1.CountCharsInAString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

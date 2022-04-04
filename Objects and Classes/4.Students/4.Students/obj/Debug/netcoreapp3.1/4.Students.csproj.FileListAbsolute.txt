@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/bin/Debug/netcoreapp3.1/4.Students.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/bin/Debug/netcoreapp3.1/4.Students.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/bin/Debug/netcoreapp3.1/4.Students.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/bin/Debug/netcoreapp3.1/4.Students.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/bin/Debug/netcoreapp3.1/4.Students.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/obj/Debug/netcoreapp3.1/4.Students.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/obj/Debug/netcoreapp3.1/4.Students.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/obj/Debug/netcoreapp3.1/4.Students.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/obj/Debug/netcoreapp3.1/4.Students.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/obj/Debug/netcoreapp3.1/4.Students.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/obj/Debug/netcoreapp3.1/4.Students.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/obj/Debug/netcoreapp3.1/4.Students.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/4.Students/4.Students/obj/Debug/netcoreapp3.1/4.Students.genruntimeconfig.cache

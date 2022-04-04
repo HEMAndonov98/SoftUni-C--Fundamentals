@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5BFFAC73-ECAA-426D-99FF-450D7904884F}|Default">
+  <MonoDevelop.Ide.ItemProperties.1.MatchFullName PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2.MatchPhoneNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="3.MatchDates/Program.cs">
+    <Files>
+      <File FileName="1.MatchFullName/Program.cs" Line="23" Column="1" />
+      <File FileName="2.MatchPhoneNumber/Program.cs" Line="24" Column="1" />
+      <File FileName="3.MatchDates/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RegularExpressionsLab" expanded="True">
+            <Node name="3.MatchDates" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.3.MatchDates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

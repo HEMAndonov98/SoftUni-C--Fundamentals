@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/bin/Debug/netcoreapp3.1/4.TextFilter.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/bin/Debug/netcoreapp3.1/4.TextFilter.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/bin/Debug/netcoreapp3.1/4.TextFilter.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/bin/Debug/netcoreapp3.1/4.TextFilter.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/bin/Debug/netcoreapp3.1/4.TextFilter.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/obj/Debug/netcoreapp3.1/4.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/obj/Debug/netcoreapp3.1/4.TextFilter.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/obj/Debug/netcoreapp3.1/4.TextFilter.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/obj/Debug/netcoreapp3.1/4.TextFilter.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/obj/Debug/netcoreapp3.1/4.TextFilter.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/obj/Debug/netcoreapp3.1/4.TextFilter.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/obj/Debug/netcoreapp3.1/4.TextFilter.genruntimeconfig.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/4.TextFilter/obj/Debug/netcoreapp3.1/4.TextFilter.csproj.AssemblyReference.cache

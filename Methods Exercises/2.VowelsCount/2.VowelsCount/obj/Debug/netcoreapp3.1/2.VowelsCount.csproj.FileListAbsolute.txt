@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/bin/Debug/netcoreapp3.1/2.VowelsCount.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/bin/Debug/netcoreapp3.1/2.VowelsCount.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/bin/Debug/netcoreapp3.1/2.VowelsCount.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/bin/Debug/netcoreapp3.1/2.VowelsCount.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/bin/Debug/netcoreapp3.1/2.VowelsCount.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/obj/Debug/netcoreapp3.1/2.VowelsCount.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/obj/Debug/netcoreapp3.1/2.VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/obj/Debug/netcoreapp3.1/2.VowelsCount.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/obj/Debug/netcoreapp3.1/2.VowelsCount.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/obj/Debug/netcoreapp3.1/2.VowelsCount.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/obj/Debug/netcoreapp3.1/2.VowelsCount.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/obj/Debug/netcoreapp3.1/2.VowelsCount.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/obj/Debug/netcoreapp3.1/2.VowelsCount.genruntimeconfig.cache

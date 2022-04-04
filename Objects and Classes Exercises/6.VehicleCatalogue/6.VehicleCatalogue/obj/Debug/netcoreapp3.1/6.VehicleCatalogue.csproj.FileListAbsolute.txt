@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/bin/Debug/netcoreapp3.1/6.VehicleCatalogue.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/bin/Debug/netcoreapp3.1/6.VehicleCatalogue.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/bin/Debug/netcoreapp3.1/6.VehicleCatalogue.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/bin/Debug/netcoreapp3.1/6.VehicleCatalogue.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/bin/Debug/netcoreapp3.1/6.VehicleCatalogue.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/obj/Debug/netcoreapp3.1/6.VehicleCatalogue.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/obj/Debug/netcoreapp3.1/6.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/obj/Debug/netcoreapp3.1/6.VehicleCatalogue.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/obj/Debug/netcoreapp3.1/6.VehicleCatalogue.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/obj/Debug/netcoreapp3.1/6.VehicleCatalogue.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/obj/Debug/netcoreapp3.1/6.VehicleCatalogue.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/obj/Debug/netcoreapp3.1/6.VehicleCatalogue.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/6.VehicleCatalogue/6.VehicleCatalogue/obj/Debug/netcoreapp3.1/6.VehicleCatalogue.genruntimeconfig.cache

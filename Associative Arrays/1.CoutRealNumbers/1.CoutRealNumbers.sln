@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.CoutRealNumbers", "1.CoutRealNumbers\1.CoutRealNumbers.csproj", "{84706353-BAC6-4273-86EB-02ACDE03D1FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84706353-BAC6-4273-86EB-02ACDE03D1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84706353-BAC6-4273-86EB-02ACDE03D1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84706353-BAC6-4273-86EB-02ACDE03D1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84706353-BAC6-4273-86EB-02ACDE03D1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78BD53C4-F4C1-447A-84C4-8EA63CD98BA3}
+	EndGlobalSection
+EndGlobal

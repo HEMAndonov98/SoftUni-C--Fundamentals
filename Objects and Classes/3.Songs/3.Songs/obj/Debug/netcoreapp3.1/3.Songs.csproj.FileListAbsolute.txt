@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/bin/Debug/netcoreapp3.1/3.Songs.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/bin/Debug/netcoreapp3.1/3.Songs.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/bin/Debug/netcoreapp3.1/3.Songs.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/bin/Debug/netcoreapp3.1/3.Songs.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/bin/Debug/netcoreapp3.1/3.Songs.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/obj/Debug/netcoreapp3.1/3.Songs.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/obj/Debug/netcoreapp3.1/3.Songs.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/obj/Debug/netcoreapp3.1/3.Songs.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/obj/Debug/netcoreapp3.1/3.Songs.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/obj/Debug/netcoreapp3.1/3.Songs.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/obj/Debug/netcoreapp3.1/3.Songs.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/obj/Debug/netcoreapp3.1/3.Songs.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/3.Songs/3.Songs/obj/Debug/netcoreapp3.1/3.Songs.genruntimeconfig.cache

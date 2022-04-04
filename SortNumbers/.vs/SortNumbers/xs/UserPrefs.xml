@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F5A09EDD-0E1B-4001-A8EE-36A64D35C2CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.SortNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortNumbers/Program.cs">
+    <Files>
+      <File FileName="SortNumbers/Program.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

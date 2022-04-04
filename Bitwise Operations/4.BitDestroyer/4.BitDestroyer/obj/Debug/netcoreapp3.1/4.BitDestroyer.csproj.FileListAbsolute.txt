@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/bin/Debug/netcoreapp3.1/4.BitDestroyer.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/bin/Debug/netcoreapp3.1/4.BitDestroyer.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/bin/Debug/netcoreapp3.1/4.BitDestroyer.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/bin/Debug/netcoreapp3.1/4.BitDestroyer.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/bin/Debug/netcoreapp3.1/4.BitDestroyer.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/obj/Debug/netcoreapp3.1/4.BitDestroyer.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/obj/Debug/netcoreapp3.1/4.BitDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/obj/Debug/netcoreapp3.1/4.BitDestroyer.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/obj/Debug/netcoreapp3.1/4.BitDestroyer.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/obj/Debug/netcoreapp3.1/4.BitDestroyer.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/obj/Debug/netcoreapp3.1/4.BitDestroyer.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/obj/Debug/netcoreapp3.1/4.BitDestroyer.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/4.BitDestroyer/4.BitDestroyer/obj/Debug/netcoreapp3.1/4.BitDestroyer.genruntimeconfig.cache

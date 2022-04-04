@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/bin/Debug/netcoreapp3.1/2.FromLeftToRight.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/bin/Debug/netcoreapp3.1/2.FromLeftToRight.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/bin/Debug/netcoreapp3.1/2.FromLeftToRight.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/bin/Debug/netcoreapp3.1/2.FromLeftToRight.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/bin/Debug/netcoreapp3.1/2.FromLeftToRight.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/obj/Debug/netcoreapp3.1/2.FromLeftToRight.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/obj/Debug/netcoreapp3.1/2.FromLeftToRight.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/obj/Debug/netcoreapp3.1/2.FromLeftToRight.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/obj/Debug/netcoreapp3.1/2.FromLeftToRight.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/obj/Debug/netcoreapp3.1/2.FromLeftToRight.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/obj/Debug/netcoreapp3.1/2.FromLeftToRight.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/obj/Debug/netcoreapp3.1/2.FromLeftToRight.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/obj/Debug/netcoreapp3.1/2.FromLeftToRight.genruntimeconfig.cache

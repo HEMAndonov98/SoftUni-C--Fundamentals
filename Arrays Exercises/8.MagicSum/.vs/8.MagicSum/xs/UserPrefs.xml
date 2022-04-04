@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{05AF64AD-2101-4EB7-94BF-C547515C71BD}|Default">
+  <MonoDevelop.Ide.ItemProperties.8.MagicSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="8.MagicSum/Program.cs">
+    <Files>
+      <File FileName="8.MagicSum/Program.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

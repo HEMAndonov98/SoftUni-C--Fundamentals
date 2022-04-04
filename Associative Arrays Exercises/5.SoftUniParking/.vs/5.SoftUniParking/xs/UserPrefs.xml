@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{438CF216-1608-4A1F-8042-C39D9479BB7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="5.SoftUniParking/Program.cs">
+    <Files>
+      <File FileName="5.SoftUniParking/Program.cs" Line="21" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.5.SoftUniParking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

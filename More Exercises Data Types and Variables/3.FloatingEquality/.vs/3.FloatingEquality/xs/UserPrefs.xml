@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{618AA00B-AB10-4F0C-9162-600F2C00C50C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="3.FloatingEquality/Program.cs">
+    <Files>
+      <File FileName="3.FloatingEquality/Program.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3.FloatingEquality" expanded="True">
+            <Node name="3.FloatingEquality" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.3.FloatingEquality PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

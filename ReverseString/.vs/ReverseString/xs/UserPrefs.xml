@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{AB157D27-B68C-4EF1-A151-32DB286B0054}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReverseString/Program.cs">
+    <Files>
+      <File FileName="ReverseString/Program.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReverseString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Extreme SSD/SoftUni C# Fundamentals/ReverseString/ReverseString/Program.cs" relfile="ReverseString/Program.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/bin/Debug/net5.0/4.StarEnigma.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/bin/Debug/net5.0/4.StarEnigma.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/bin/Debug/net5.0/4.StarEnigma.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/bin/Debug/net5.0/4.StarEnigma.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/bin/Debug/net5.0/ref/4.StarEnigma.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/bin/Debug/net5.0/4.StarEnigma.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/obj/Debug/net5.0/4.StarEnigma.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/obj/Debug/net5.0/4.StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/obj/Debug/net5.0/4.StarEnigma.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/obj/Debug/net5.0/4.StarEnigma.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/obj/Debug/net5.0/4.StarEnigma.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/obj/Debug/net5.0/4.StarEnigma.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/obj/Debug/net5.0/ref/4.StarEnigma.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/obj/Debug/net5.0/4.StarEnigma.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/4.StarEnigma/obj/Debug/net5.0/4.StarEnigma.genruntimeconfig.cache

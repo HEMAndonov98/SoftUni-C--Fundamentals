@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{29664ECC-F8F2-4F2C-9890-6F1D2B1CC305}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.FromLeftToRight/Program.cs">
+    <Files>
+      <File FileName="2.FromLeftToRight/Program.cs" Line="27" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2.FromLeftToRight" expanded="True">
+            <Node name="2.FromLeftToRight" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/2.FromLeftToRight/2.FromLeftToRight/Program.cs" relfile="2.FromLeftToRight/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.2.FromLeftToRight PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

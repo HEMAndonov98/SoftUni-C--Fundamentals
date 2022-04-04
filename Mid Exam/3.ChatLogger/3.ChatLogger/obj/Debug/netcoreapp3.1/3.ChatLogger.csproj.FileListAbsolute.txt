@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/bin/Debug/netcoreapp3.1/3.ChatLogger.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/bin/Debug/netcoreapp3.1/3.ChatLogger.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/bin/Debug/netcoreapp3.1/3.ChatLogger.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/bin/Debug/netcoreapp3.1/3.ChatLogger.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/bin/Debug/netcoreapp3.1/3.ChatLogger.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/obj/Debug/netcoreapp3.1/3.ChatLogger.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/obj/Debug/netcoreapp3.1/3.ChatLogger.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/obj/Debug/netcoreapp3.1/3.ChatLogger.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/obj/Debug/netcoreapp3.1/3.ChatLogger.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/obj/Debug/netcoreapp3.1/3.ChatLogger.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/obj/Debug/netcoreapp3.1/3.ChatLogger.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/obj/Debug/netcoreapp3.1/3.ChatLogger.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/3.ChatLogger/3.ChatLogger/obj/Debug/netcoreapp3.1/3.ChatLogger.genruntimeconfig.cache

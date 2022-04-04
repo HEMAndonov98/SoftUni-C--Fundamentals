@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/bin/Debug/net5.0/1.MatchFullName.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/bin/Debug/net5.0/1.MatchFullName.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/bin/Debug/net5.0/1.MatchFullName.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/bin/Debug/net5.0/1.MatchFullName.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/bin/Debug/net5.0/ref/1.MatchFullName.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/bin/Debug/net5.0/1.MatchFullName.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/obj/Debug/net5.0/1.MatchFullName.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/obj/Debug/net5.0/1.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/obj/Debug/net5.0/1.MatchFullName.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/obj/Debug/net5.0/1.MatchFullName.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/obj/Debug/net5.0/1.MatchFullName.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/obj/Debug/net5.0/1.MatchFullName.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/obj/Debug/net5.0/ref/1.MatchFullName.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/obj/Debug/net5.0/1.MatchFullName.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/1.MatchFullName/obj/Debug/net5.0/1.MatchFullName.genruntimeconfig.cache

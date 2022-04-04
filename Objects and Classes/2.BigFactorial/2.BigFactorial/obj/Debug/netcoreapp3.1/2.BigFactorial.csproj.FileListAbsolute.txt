@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/bin/Debug/netcoreapp3.1/2.BigFactorial.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/bin/Debug/netcoreapp3.1/2.BigFactorial.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/bin/Debug/netcoreapp3.1/2.BigFactorial.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/bin/Debug/netcoreapp3.1/2.BigFactorial.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/bin/Debug/netcoreapp3.1/2.BigFactorial.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/obj/Debug/netcoreapp3.1/2.BigFactorial.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/obj/Debug/netcoreapp3.1/2.BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/obj/Debug/netcoreapp3.1/2.BigFactorial.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/obj/Debug/netcoreapp3.1/2.BigFactorial.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/obj/Debug/netcoreapp3.1/2.BigFactorial.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/obj/Debug/netcoreapp3.1/2.BigFactorial.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/obj/Debug/netcoreapp3.1/2.BigFactorial.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/2.BigFactorial/2.BigFactorial/obj/Debug/netcoreapp3.1/2.BigFactorial.genruntimeconfig.cache

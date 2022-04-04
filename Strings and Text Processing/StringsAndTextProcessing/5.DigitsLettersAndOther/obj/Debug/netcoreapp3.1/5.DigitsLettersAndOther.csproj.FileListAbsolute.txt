@@ -1,0 +1,12 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/bin/Debug/netcoreapp3.1/5.DigitsLettersAndOther.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/bin/Debug/netcoreapp3.1/5.DigitsLettersAndOther.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/bin/Debug/netcoreapp3.1/5.DigitsLettersAndOther.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/bin/Debug/netcoreapp3.1/5.DigitsLettersAndOther.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/bin/Debug/netcoreapp3.1/5.DigitsLettersAndOther.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/obj/Debug/netcoreapp3.1/5.DigitsLettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/obj/Debug/netcoreapp3.1/5.DigitsLettersAndOther.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/obj/Debug/netcoreapp3.1/5.DigitsLettersAndOther.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/obj/Debug/netcoreapp3.1/5.DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/obj/Debug/netcoreapp3.1/5.DigitsLettersAndOther.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/obj/Debug/netcoreapp3.1/5.DigitsLettersAndOther.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/5.DigitsLettersAndOther/obj/Debug/netcoreapp3.1/5.DigitsLettersAndOther.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/bin/Debug/netcoreapp3.1/2.ChangeList.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/bin/Debug/netcoreapp3.1/2.ChangeList.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/bin/Debug/netcoreapp3.1/2.ChangeList.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/bin/Debug/netcoreapp3.1/2.ChangeList.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/bin/Debug/netcoreapp3.1/2.ChangeList.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/obj/Debug/netcoreapp3.1/2.ChangeList.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/obj/Debug/netcoreapp3.1/2.ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/obj/Debug/netcoreapp3.1/2.ChangeList.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/obj/Debug/netcoreapp3.1/2.ChangeList.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/obj/Debug/netcoreapp3.1/2.ChangeList.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/obj/Debug/netcoreapp3.1/2.ChangeList.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/obj/Debug/netcoreapp3.1/2.ChangeList.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/2.ChangeList/2.ChangeList/obj/Debug/netcoreapp3.1/2.ChangeList.genruntimeconfig.cache

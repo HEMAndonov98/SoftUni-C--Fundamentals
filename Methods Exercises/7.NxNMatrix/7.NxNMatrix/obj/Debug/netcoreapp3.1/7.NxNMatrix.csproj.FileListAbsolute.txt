@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/bin/Debug/netcoreapp3.1/7.NxNMatrix.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/bin/Debug/netcoreapp3.1/7.NxNMatrix.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/bin/Debug/netcoreapp3.1/7.NxNMatrix.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/bin/Debug/netcoreapp3.1/7.NxNMatrix.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/bin/Debug/netcoreapp3.1/7.NxNMatrix.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/obj/Debug/netcoreapp3.1/7.NxNMatrix.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/obj/Debug/netcoreapp3.1/7.NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/obj/Debug/netcoreapp3.1/7.NxNMatrix.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/obj/Debug/netcoreapp3.1/7.NxNMatrix.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/obj/Debug/netcoreapp3.1/7.NxNMatrix.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/obj/Debug/netcoreapp3.1/7.NxNMatrix.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/obj/Debug/netcoreapp3.1/7.NxNMatrix.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/7.NxNMatrix/7.NxNMatrix/obj/Debug/netcoreapp3.1/7.NxNMatrix.genruntimeconfig.cache

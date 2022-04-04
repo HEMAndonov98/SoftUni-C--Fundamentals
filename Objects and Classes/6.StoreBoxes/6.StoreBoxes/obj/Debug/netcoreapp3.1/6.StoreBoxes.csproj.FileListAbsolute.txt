@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/bin/Debug/netcoreapp3.1/6.StoreBoxes.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/bin/Debug/netcoreapp3.1/6.StoreBoxes.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/bin/Debug/netcoreapp3.1/6.StoreBoxes.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/bin/Debug/netcoreapp3.1/6.StoreBoxes.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/bin/Debug/netcoreapp3.1/6.StoreBoxes.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/obj/Debug/netcoreapp3.1/6.StoreBoxes.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/obj/Debug/netcoreapp3.1/6.StoreBoxes.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/obj/Debug/netcoreapp3.1/6.StoreBoxes.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/obj/Debug/netcoreapp3.1/6.StoreBoxes.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/obj/Debug/netcoreapp3.1/6.StoreBoxes.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/obj/Debug/netcoreapp3.1/6.StoreBoxes.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/obj/Debug/netcoreapp3.1/6.StoreBoxes.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/6.StoreBoxes/6.StoreBoxes/obj/Debug/netcoreapp3.1/6.StoreBoxes.genruntimeconfig.cache

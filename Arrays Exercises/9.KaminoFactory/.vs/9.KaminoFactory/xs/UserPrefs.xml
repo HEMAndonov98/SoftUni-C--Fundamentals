@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0B4DD9FF-56CA-41EE-849B-ED11E4701B27}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="9.KaminoFactory/Program.cs">
+    <Files>
+      <File FileName="9.KaminoFactory/Program.cs" Line="42" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.9.KaminoFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

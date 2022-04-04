@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/bin/Debug/netcoreapp3.1/3.PthBit.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/bin/Debug/netcoreapp3.1/3.PthBit.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/bin/Debug/netcoreapp3.1/3.PthBit.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/bin/Debug/netcoreapp3.1/3.PthBit.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/bin/Debug/netcoreapp3.1/3.PthBit.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/obj/Debug/netcoreapp3.1/3.PthBit.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/obj/Debug/netcoreapp3.1/3.PthBit.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/obj/Debug/netcoreapp3.1/3.PthBit.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/obj/Debug/netcoreapp3.1/3.PthBit.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/obj/Debug/netcoreapp3.1/3.PthBit.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/obj/Debug/netcoreapp3.1/3.PthBit.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/obj/Debug/netcoreapp3.1/3.PthBit.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/3.PthBit/3.PthBit/obj/Debug/netcoreapp3.1/3.PthBit.genruntimeconfig.cache

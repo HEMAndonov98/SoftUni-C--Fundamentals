@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.PrintingTriangle", "4.PrintingTriangle\4.PrintingTriangle.csproj", "{6DF43F03-0E37-4810-B0C4-6CE66D12C045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF43F03-0E37-4810-B0C4-6CE66D12C045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF43F03-0E37-4810-B0C4-6CE66D12C045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF43F03-0E37-4810-B0C4-6CE66D12C045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF43F03-0E37-4810-B0C4-6CE66D12C045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {326948ED-5DBF-447D-92A1-033AA8A2B78A}
+	EndGlobalSection
+EndGlobal

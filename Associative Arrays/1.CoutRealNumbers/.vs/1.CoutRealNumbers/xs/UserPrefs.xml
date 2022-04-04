@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{84706353-BAC6-4273-86EB-02ACDE03D1FE}|Default">
+  <MonoDevelop.Ide.ItemProperties.1.CoutRealNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.CoutRealNumbers/Program.cs">
+    <Files>
+      <File FileName="1.CoutRealNumbers/Program.cs" Line="35" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

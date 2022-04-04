@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/bin/Debug/net5.0/3.MatchDates.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/bin/Debug/net5.0/3.MatchDates.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/bin/Debug/net5.0/3.MatchDates.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/bin/Debug/net5.0/3.MatchDates.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/bin/Debug/net5.0/ref/3.MatchDates.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/bin/Debug/net5.0/3.MatchDates.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/obj/Debug/net5.0/3.MatchDates.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/obj/Debug/net5.0/3.MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/obj/Debug/net5.0/3.MatchDates.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/obj/Debug/net5.0/3.MatchDates.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/obj/Debug/net5.0/3.MatchDates.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/obj/Debug/net5.0/3.MatchDates.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/obj/Debug/net5.0/ref/3.MatchDates.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/obj/Debug/net5.0/3.MatchDates.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/3.MatchDates/obj/Debug/net5.0/3.MatchDates.genruntimeconfig.cache

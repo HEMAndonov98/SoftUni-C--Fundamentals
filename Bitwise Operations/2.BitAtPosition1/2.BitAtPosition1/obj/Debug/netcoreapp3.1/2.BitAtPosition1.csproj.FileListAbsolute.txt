@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/bin/Debug/netcoreapp3.1/2.BitAtPosition1.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/bin/Debug/netcoreapp3.1/2.BitAtPosition1.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/bin/Debug/netcoreapp3.1/2.BitAtPosition1.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/bin/Debug/netcoreapp3.1/2.BitAtPosition1.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/bin/Debug/netcoreapp3.1/2.BitAtPosition1.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/obj/Debug/netcoreapp3.1/2.BitAtPosition1.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/obj/Debug/netcoreapp3.1/2.BitAtPosition1.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/obj/Debug/netcoreapp3.1/2.BitAtPosition1.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/obj/Debug/netcoreapp3.1/2.BitAtPosition1.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/obj/Debug/netcoreapp3.1/2.BitAtPosition1.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/obj/Debug/netcoreapp3.1/2.BitAtPosition1.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/obj/Debug/netcoreapp3.1/2.BitAtPosition1.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Bitwise Operations/2.BitAtPosition1/2.BitAtPosition1/obj/Debug/netcoreapp3.1/2.BitAtPosition1.genruntimeconfig.cache

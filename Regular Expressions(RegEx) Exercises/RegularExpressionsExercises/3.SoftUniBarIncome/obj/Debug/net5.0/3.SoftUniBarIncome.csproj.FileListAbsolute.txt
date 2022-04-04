@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/bin/Debug/net5.0/3.SoftUniBarIncome.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/bin/Debug/net5.0/3.SoftUniBarIncome.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/bin/Debug/net5.0/3.SoftUniBarIncome.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/bin/Debug/net5.0/3.SoftUniBarIncome.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/bin/Debug/net5.0/ref/3.SoftUniBarIncome.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/bin/Debug/net5.0/3.SoftUniBarIncome.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/obj/Debug/net5.0/3.SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/obj/Debug/net5.0/3.SoftUniBarIncome.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/obj/Debug/net5.0/3.SoftUniBarIncome.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/obj/Debug/net5.0/3.SoftUniBarIncome.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/obj/Debug/net5.0/3.SoftUniBarIncome.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/obj/Debug/net5.0/ref/3.SoftUniBarIncome.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/obj/Debug/net5.0/3.SoftUniBarIncome.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/obj/Debug/net5.0/3.SoftUniBarIncome.genruntimeconfig.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/3.SoftUniBarIncome/obj/Debug/net5.0/3.SoftUniBarIncome.csproj.AssemblyReference.cache

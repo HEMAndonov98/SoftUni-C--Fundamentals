@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/bin/Debug/net5.0/6.ExtractEmails.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/bin/Debug/net5.0/6.ExtractEmails.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/bin/Debug/net5.0/6.ExtractEmails.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/bin/Debug/net5.0/6.ExtractEmails.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/bin/Debug/net5.0/ref/6.ExtractEmails.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/bin/Debug/net5.0/6.ExtractEmails.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/obj/Debug/net5.0/6.ExtractEmails.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/obj/Debug/net5.0/6.ExtractEmails.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/obj/Debug/net5.0/6.ExtractEmails.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/obj/Debug/net5.0/6.ExtractEmails.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/obj/Debug/net5.0/6.ExtractEmails.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/obj/Debug/net5.0/6.ExtractEmails.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/obj/Debug/net5.0/ref/6.ExtractEmails.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/obj/Debug/net5.0/6.ExtractEmails.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/6.ExtractEmails/obj/Debug/net5.0/6.ExtractEmails.genruntimeconfig.cache

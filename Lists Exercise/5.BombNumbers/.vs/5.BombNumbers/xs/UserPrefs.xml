@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F13DFD7C-6119-4A1B-B3DF-861030C68D4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="5.BombNumbers/Program.cs">
+    <Files>
+      <File FileName="5.BombNumbers/Program.cs" Line="16" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.5.BombNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../5.BombNumbers/Program.cs" line="20" column="21" endLine="20" endColumn="26" offsetX="-1" offsetY="-1" expression="i" liveUpdate="False" />
+    <Watch file="../../../5.BombNumbers/Program.cs" line="26" column="29" endLine="26" endColumn="38" offsetX="-1" offsetY="-1" expression="j" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

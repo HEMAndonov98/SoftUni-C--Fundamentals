@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/bin/Debug/netcoreapp3.1/3.Substring.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/bin/Debug/netcoreapp3.1/3.Substring.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/bin/Debug/netcoreapp3.1/3.Substring.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/bin/Debug/netcoreapp3.1/3.Substring.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/bin/Debug/netcoreapp3.1/3.Substring.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/obj/Debug/netcoreapp3.1/3.Substring.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/obj/Debug/netcoreapp3.1/3.Substring.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/obj/Debug/netcoreapp3.1/3.Substring.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/obj/Debug/netcoreapp3.1/3.Substring.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/obj/Debug/netcoreapp3.1/3.Substring.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/obj/Debug/netcoreapp3.1/3.Substring.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/obj/Debug/netcoreapp3.1/3.Substring.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Strings and Text Processing/StringsAndTextProcessing/3.Substring/obj/Debug/netcoreapp3.1/3.Substring.genruntimeconfig.cache

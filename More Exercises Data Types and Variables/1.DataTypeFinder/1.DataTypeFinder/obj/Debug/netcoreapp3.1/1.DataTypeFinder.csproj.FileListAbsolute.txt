@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/bin/Debug/netcoreapp3.1/1.DataTypeFinder.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/bin/Debug/netcoreapp3.1/1.DataTypeFinder.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/bin/Debug/netcoreapp3.1/1.DataTypeFinder.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/bin/Debug/netcoreapp3.1/1.DataTypeFinder.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/bin/Debug/netcoreapp3.1/1.DataTypeFinder.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/obj/Debug/netcoreapp3.1/1.DataTypeFinder.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/obj/Debug/netcoreapp3.1/1.DataTypeFinder.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/obj/Debug/netcoreapp3.1/1.DataTypeFinder.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/obj/Debug/netcoreapp3.1/1.DataTypeFinder.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/obj/Debug/netcoreapp3.1/1.DataTypeFinder.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/obj/Debug/netcoreapp3.1/1.DataTypeFinder.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/obj/Debug/netcoreapp3.1/1.DataTypeFinder.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/More Exercises Data Types and Variables/1.DataTypeFinder/1.DataTypeFinder/obj/Debug/netcoreapp3.1/1.DataTypeFinder.genruntimeconfig.cache

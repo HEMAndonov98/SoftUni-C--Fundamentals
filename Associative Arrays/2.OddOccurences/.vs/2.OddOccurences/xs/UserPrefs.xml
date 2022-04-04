@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{773CD950-F771-4B19-9945-CD5AFF3FB359}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.OddOccurences/Program.cs">
+    <Files>
+      <File FileName="2.OddOccurences/Program.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.2.OddOccurences PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

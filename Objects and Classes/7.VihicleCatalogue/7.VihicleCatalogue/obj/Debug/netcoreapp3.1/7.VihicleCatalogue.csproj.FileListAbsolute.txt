@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/bin/Debug/netcoreapp3.1/7.VihicleCatalogue.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/bin/Debug/netcoreapp3.1/7.VihicleCatalogue.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/bin/Debug/netcoreapp3.1/7.VihicleCatalogue.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/bin/Debug/netcoreapp3.1/7.VihicleCatalogue.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/bin/Debug/netcoreapp3.1/7.VihicleCatalogue.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/obj/Debug/netcoreapp3.1/7.VihicleCatalogue.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/obj/Debug/netcoreapp3.1/7.VihicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/obj/Debug/netcoreapp3.1/7.VihicleCatalogue.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/obj/Debug/netcoreapp3.1/7.VihicleCatalogue.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/obj/Debug/netcoreapp3.1/7.VihicleCatalogue.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/obj/Debug/netcoreapp3.1/7.VihicleCatalogue.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/obj/Debug/netcoreapp3.1/7.VihicleCatalogue.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes/7.VihicleCatalogue/7.VihicleCatalogue/obj/Debug/netcoreapp3.1/7.VihicleCatalogue.genruntimeconfig.cache

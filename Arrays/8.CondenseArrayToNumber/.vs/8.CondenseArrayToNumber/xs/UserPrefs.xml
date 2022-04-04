@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F2E77AD6-8954-4CB0-901C-12DE1C0B7CF1}|Default">
+  <MonoDevelop.Ide.ItemProperties.8.CondenseArrayToNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="8.CondenseArrayToNumber/Program.cs">
+    <Files>
+      <File FileName="8.CondenseArrayToNumber/Program.cs" Line="32" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

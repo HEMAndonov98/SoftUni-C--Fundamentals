@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/bin/Debug/netcoreapp3.1/5.SoftUniParking.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/bin/Debug/netcoreapp3.1/5.SoftUniParking.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/bin/Debug/netcoreapp3.1/5.SoftUniParking.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/bin/Debug/netcoreapp3.1/5.SoftUniParking.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/bin/Debug/netcoreapp3.1/5.SoftUniParking.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/obj/Debug/netcoreapp3.1/5.SoftUniParking.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/obj/Debug/netcoreapp3.1/5.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/obj/Debug/netcoreapp3.1/5.SoftUniParking.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/obj/Debug/netcoreapp3.1/5.SoftUniParking.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/obj/Debug/netcoreapp3.1/5.SoftUniParking.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/obj/Debug/netcoreapp3.1/5.SoftUniParking.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/obj/Debug/netcoreapp3.1/5.SoftUniParking.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays Exercises/5.SoftUniParking/5.SoftUniParking/obj/Debug/netcoreapp3.1/5.SoftUniParking.genruntimeconfig.cache

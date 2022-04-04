@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/bin/Debug/netcoreapp3.1/7.AppendArrays.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/bin/Debug/netcoreapp3.1/7.AppendArrays.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/bin/Debug/netcoreapp3.1/7.AppendArrays.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/bin/Debug/netcoreapp3.1/7.AppendArrays.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/bin/Debug/netcoreapp3.1/7.AppendArrays.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/obj/Debug/netcoreapp3.1/7.AppendArrays.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/obj/Debug/netcoreapp3.1/7.AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/obj/Debug/netcoreapp3.1/7.AppendArrays.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/obj/Debug/netcoreapp3.1/7.AppendArrays.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/obj/Debug/netcoreapp3.1/7.AppendArrays.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/obj/Debug/netcoreapp3.1/7.AppendArrays.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/obj/Debug/netcoreapp3.1/7.AppendArrays.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/7.AppendArrays/7.AppendArrays/obj/Debug/netcoreapp3.1/7.AppendArrays.genruntimeconfig.cache

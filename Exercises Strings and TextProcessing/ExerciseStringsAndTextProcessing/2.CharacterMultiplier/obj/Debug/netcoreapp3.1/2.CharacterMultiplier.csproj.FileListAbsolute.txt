@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/bin/Debug/netcoreapp3.1/2.CharacterMultiplier.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/bin/Debug/netcoreapp3.1/2.CharacterMultiplier.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/bin/Debug/netcoreapp3.1/2.CharacterMultiplier.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/bin/Debug/netcoreapp3.1/2.CharacterMultiplier.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/bin/Debug/netcoreapp3.1/2.CharacterMultiplier.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/obj/Debug/netcoreapp3.1/2.CharacterMultiplier.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/obj/Debug/netcoreapp3.1/2.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/obj/Debug/netcoreapp3.1/2.CharacterMultiplier.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/obj/Debug/netcoreapp3.1/2.CharacterMultiplier.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/obj/Debug/netcoreapp3.1/2.CharacterMultiplier.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/obj/Debug/netcoreapp3.1/2.CharacterMultiplier.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/obj/Debug/netcoreapp3.1/2.CharacterMultiplier.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/2.CharacterMultiplier/obj/Debug/netcoreapp3.1/2.CharacterMultiplier.genruntimeconfig.cache

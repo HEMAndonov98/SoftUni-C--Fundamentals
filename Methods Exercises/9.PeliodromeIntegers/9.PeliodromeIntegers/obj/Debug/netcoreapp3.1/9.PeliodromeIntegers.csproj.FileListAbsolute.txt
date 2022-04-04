@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/bin/Debug/netcoreapp3.1/9.PeliodromeIntegers.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/bin/Debug/netcoreapp3.1/9.PeliodromeIntegers.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/bin/Debug/netcoreapp3.1/9.PeliodromeIntegers.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/bin/Debug/netcoreapp3.1/9.PeliodromeIntegers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/bin/Debug/netcoreapp3.1/9.PeliodromeIntegers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/obj/Debug/netcoreapp3.1/9.PeliodromeIntegers.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/obj/Debug/netcoreapp3.1/9.PeliodromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/obj/Debug/netcoreapp3.1/9.PeliodromeIntegers.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/obj/Debug/netcoreapp3.1/9.PeliodromeIntegers.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/obj/Debug/netcoreapp3.1/9.PeliodromeIntegers.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/obj/Debug/netcoreapp3.1/9.PeliodromeIntegers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/obj/Debug/netcoreapp3.1/9.PeliodromeIntegers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/9.PeliodromeIntegers/9.PeliodromeIntegers/obj/Debug/netcoreapp3.1/9.PeliodromeIntegers.genruntimeconfig.cache

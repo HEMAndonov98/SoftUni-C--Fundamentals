@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/bin/Debug/netcoreapp3.1/3.WordSynonyms.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/bin/Debug/netcoreapp3.1/3.WordSynonyms.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/bin/Debug/netcoreapp3.1/3.WordSynonyms.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/bin/Debug/netcoreapp3.1/3.WordSynonyms.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/bin/Debug/netcoreapp3.1/3.WordSynonyms.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/obj/Debug/netcoreapp3.1/3.WordSynonyms.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/obj/Debug/netcoreapp3.1/3.WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/obj/Debug/netcoreapp3.1/3.WordSynonyms.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/obj/Debug/netcoreapp3.1/3.WordSynonyms.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/obj/Debug/netcoreapp3.1/3.WordSynonyms.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/obj/Debug/netcoreapp3.1/3.WordSynonyms.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/obj/Debug/netcoreapp3.1/3.WordSynonyms.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/3.WordSynonyms/3.WordSynonyms/obj/Debug/netcoreapp3.1/3.WordSynonyms.genruntimeconfig.cache

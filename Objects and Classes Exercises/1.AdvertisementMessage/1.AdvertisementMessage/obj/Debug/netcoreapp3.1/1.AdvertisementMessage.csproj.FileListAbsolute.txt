@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/bin/Debug/netcoreapp3.1/1.AdvertisementMessage.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/bin/Debug/netcoreapp3.1/1.AdvertisementMessage.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/bin/Debug/netcoreapp3.1/1.AdvertisementMessage.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/bin/Debug/netcoreapp3.1/1.AdvertisementMessage.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/bin/Debug/netcoreapp3.1/1.AdvertisementMessage.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/obj/Debug/netcoreapp3.1/1.AdvertisementMessage.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/obj/Debug/netcoreapp3.1/1.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/obj/Debug/netcoreapp3.1/1.AdvertisementMessage.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/obj/Debug/netcoreapp3.1/1.AdvertisementMessage.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/obj/Debug/netcoreapp3.1/1.AdvertisementMessage.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/obj/Debug/netcoreapp3.1/1.AdvertisementMessage.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/obj/Debug/netcoreapp3.1/1.AdvertisementMessage.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/1.AdvertisementMessage/1.AdvertisementMessage/obj/Debug/netcoreapp3.1/1.AdvertisementMessage.genruntimeconfig.cache

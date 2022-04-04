@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/bin/Debug/netcoreapp3.1/3.CharactersInRange.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/bin/Debug/netcoreapp3.1/3.CharactersInRange.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/bin/Debug/netcoreapp3.1/3.CharactersInRange.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/bin/Debug/netcoreapp3.1/3.CharactersInRange.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/bin/Debug/netcoreapp3.1/3.CharactersInRange.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/obj/Debug/netcoreapp3.1/3.CharactersInRange.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/obj/Debug/netcoreapp3.1/3.CharactersInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/obj/Debug/netcoreapp3.1/3.CharactersInRange.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/obj/Debug/netcoreapp3.1/3.CharactersInRange.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/obj/Debug/netcoreapp3.1/3.CharactersInRange.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/obj/Debug/netcoreapp3.1/3.CharactersInRange.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/obj/Debug/netcoreapp3.1/3.CharactersInRange.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/3.CharactersInRange/3.CharactersInRange/obj/Debug/netcoreapp3.1/3.CharactersInRange.genruntimeconfig.cache

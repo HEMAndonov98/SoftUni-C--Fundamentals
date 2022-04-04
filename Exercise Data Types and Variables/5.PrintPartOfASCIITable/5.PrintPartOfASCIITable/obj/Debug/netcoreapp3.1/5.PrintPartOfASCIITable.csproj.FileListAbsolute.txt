@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/bin/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/bin/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/bin/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/bin/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/bin/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/obj/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/obj/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/obj/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/obj/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/obj/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/obj/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/obj/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercise Data Types and Variables/5.PrintPartOfASCIITable/5.PrintPartOfASCIITable/obj/Debug/netcoreapp3.1/5.PrintPartOfASCIITable.genruntimeconfig.cache

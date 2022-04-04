@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/bin/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/6.ReplaceRepeatingChars/obj/Debug/netcoreapp3.1/6.ReplaceRepeatingChars.genruntimeconfig.cache

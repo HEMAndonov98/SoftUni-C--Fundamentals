@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/bin/Debug/netcoreapp3.1/11.ArrayManipulator.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/bin/Debug/netcoreapp3.1/11.ArrayManipulator.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/bin/Debug/netcoreapp3.1/11.ArrayManipulator.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/bin/Debug/netcoreapp3.1/11.ArrayManipulator.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/bin/Debug/netcoreapp3.1/11.ArrayManipulator.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/obj/Debug/netcoreapp3.1/11.ArrayManipulator.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/obj/Debug/netcoreapp3.1/11.ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/obj/Debug/netcoreapp3.1/11.ArrayManipulator.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/obj/Debug/netcoreapp3.1/11.ArrayManipulator.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/obj/Debug/netcoreapp3.1/11.ArrayManipulator.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/obj/Debug/netcoreapp3.1/11.ArrayManipulator.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/obj/Debug/netcoreapp3.1/11.ArrayManipulator.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/11.ArrayManipulator/11.ArrayManipulator/obj/Debug/netcoreapp3.1/11.ArrayManipulator.genruntimeconfig.cache

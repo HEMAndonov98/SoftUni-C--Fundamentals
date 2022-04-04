@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/bin/Debug/netcoreapp3.1/8.FactorialDivision.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/bin/Debug/netcoreapp3.1/8.FactorialDivision.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/bin/Debug/netcoreapp3.1/8.FactorialDivision.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/bin/Debug/netcoreapp3.1/8.FactorialDivision.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/bin/Debug/netcoreapp3.1/8.FactorialDivision.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/obj/Debug/netcoreapp3.1/8.FactorialDivision.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/obj/Debug/netcoreapp3.1/8.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/obj/Debug/netcoreapp3.1/8.FactorialDivision.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/obj/Debug/netcoreapp3.1/8.FactorialDivision.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/obj/Debug/netcoreapp3.1/8.FactorialDivision.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/obj/Debug/netcoreapp3.1/8.FactorialDivision.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/obj/Debug/netcoreapp3.1/8.FactorialDivision.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/8.FactorialDivision/8.FactorialDivision/obj/Debug/netcoreapp3.1/8.FactorialDivision.genruntimeconfig.cache

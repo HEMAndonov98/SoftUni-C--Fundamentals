@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{234AE7D6-56A8-4B42-930F-C090DBD3BE9C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="2.VowelsCount/Program.cs">
+    <Files>
+      <File FileName="2.VowelsCount/Program.cs" Line="31" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.2.VowelsCount PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/2.VowelsCount/2.VowelsCount/Program.cs" relfile="2.VowelsCount/Program.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

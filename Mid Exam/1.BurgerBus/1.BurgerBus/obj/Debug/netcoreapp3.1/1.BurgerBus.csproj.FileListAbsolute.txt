@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/bin/Debug/netcoreapp3.1/1.BurgerBus.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/bin/Debug/netcoreapp3.1/1.BurgerBus.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/bin/Debug/netcoreapp3.1/1.BurgerBus.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/bin/Debug/netcoreapp3.1/1.BurgerBus.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/bin/Debug/netcoreapp3.1/1.BurgerBus.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/obj/Debug/netcoreapp3.1/1.BurgerBus.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/obj/Debug/netcoreapp3.1/1.BurgerBus.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/obj/Debug/netcoreapp3.1/1.BurgerBus.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/obj/Debug/netcoreapp3.1/1.BurgerBus.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/obj/Debug/netcoreapp3.1/1.BurgerBus.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/obj/Debug/netcoreapp3.1/1.BurgerBus.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/obj/Debug/netcoreapp3.1/1.BurgerBus.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/1.BurgerBus/1.BurgerBus/obj/Debug/netcoreapp3.1/1.BurgerBus.genruntimeconfig.cache

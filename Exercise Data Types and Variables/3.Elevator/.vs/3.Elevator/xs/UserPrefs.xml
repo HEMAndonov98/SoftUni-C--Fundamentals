@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{02B53A77-021C-4667-9C4A-8722F17D1257}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="3.Elevator/Program.cs">
+    <Files>
+      <File FileName="3.Elevator/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.3.Elevator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

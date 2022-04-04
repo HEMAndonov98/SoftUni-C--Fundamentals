@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6087810A-E047-4AEE-ABA9-C8E0B0B8F777}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.BurgerBus/Program.cs">
+    <Files>
+      <File FileName="1.BurgerBus/Program.cs" Line="45" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.1.BurgerBus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

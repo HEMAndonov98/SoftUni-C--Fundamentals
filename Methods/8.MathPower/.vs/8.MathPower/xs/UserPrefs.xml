@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{22C2281B-501D-49F8-8020-1ABA02540142}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="8.MathPower/Program.cs">
+    <Files>
+      <File FileName="8.MathPower/Program.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.8.MathPower PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

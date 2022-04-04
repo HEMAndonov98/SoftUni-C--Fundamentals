@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/bin/Debug/netcoreapp3.1/5.AddAndSubtract.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/bin/Debug/netcoreapp3.1/5.AddAndSubtract.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/bin/Debug/netcoreapp3.1/5.AddAndSubtract.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/bin/Debug/netcoreapp3.1/5.AddAndSubtract.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/bin/Debug/netcoreapp3.1/5.AddAndSubtract.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/obj/Debug/netcoreapp3.1/5.AddAndSubtract.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/obj/Debug/netcoreapp3.1/5.AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/obj/Debug/netcoreapp3.1/5.AddAndSubtract.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/obj/Debug/netcoreapp3.1/5.AddAndSubtract.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/obj/Debug/netcoreapp3.1/5.AddAndSubtract.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/obj/Debug/netcoreapp3.1/5.AddAndSubtract.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/obj/Debug/netcoreapp3.1/5.AddAndSubtract.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods Exercises/5.AddAndSubtract/5.AddAndSubtract/obj/Debug/netcoreapp3.1/5.AddAndSubtract.genruntimeconfig.cache

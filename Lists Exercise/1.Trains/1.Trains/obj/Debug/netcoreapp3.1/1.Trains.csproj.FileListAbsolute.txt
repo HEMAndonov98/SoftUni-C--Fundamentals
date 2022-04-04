@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/bin/Debug/netcoreapp3.1/1.Trains.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/bin/Debug/netcoreapp3.1/1.Trains.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/bin/Debug/netcoreapp3.1/1.Trains.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/bin/Debug/netcoreapp3.1/1.Trains.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/bin/Debug/netcoreapp3.1/1.Trains.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/obj/Debug/netcoreapp3.1/1.Trains.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/obj/Debug/netcoreapp3.1/1.Trains.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/obj/Debug/netcoreapp3.1/1.Trains.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/obj/Debug/netcoreapp3.1/1.Trains.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/obj/Debug/netcoreapp3.1/1.Trains.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/obj/Debug/netcoreapp3.1/1.Trains.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/obj/Debug/netcoreapp3.1/1.Trains.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/1.Trains/1.Trains/obj/Debug/netcoreapp3.1/1.Trains.genruntimeconfig.cache

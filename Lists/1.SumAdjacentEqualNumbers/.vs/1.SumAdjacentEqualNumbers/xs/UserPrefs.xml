@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8847BF7A-5B70-4A04-BDBA-1510D95F03B1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="1.SumAdjacentEqualNumbers/Program.cs">
+    <Files>
+      <File FileName="1.SumAdjacentEqualNumbers/Program.cs" Line="23" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.1.SumAdjacentEqualNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

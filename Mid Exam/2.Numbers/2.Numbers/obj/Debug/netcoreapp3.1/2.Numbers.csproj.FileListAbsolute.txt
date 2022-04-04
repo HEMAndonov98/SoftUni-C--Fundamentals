@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/bin/Debug/netcoreapp3.1/2.Numbers.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/bin/Debug/netcoreapp3.1/2.Numbers.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/bin/Debug/netcoreapp3.1/2.Numbers.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/bin/Debug/netcoreapp3.1/2.Numbers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/bin/Debug/netcoreapp3.1/2.Numbers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/obj/Debug/netcoreapp3.1/2.Numbers.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/obj/Debug/netcoreapp3.1/2.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/obj/Debug/netcoreapp3.1/2.Numbers.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/obj/Debug/netcoreapp3.1/2.Numbers.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/obj/Debug/netcoreapp3.1/2.Numbers.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/obj/Debug/netcoreapp3.1/2.Numbers.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/obj/Debug/netcoreapp3.1/2.Numbers.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Mid Exam/2.Numbers/2.Numbers/obj/Debug/netcoreapp3.1/2.Numbers.genruntimeconfig.cache

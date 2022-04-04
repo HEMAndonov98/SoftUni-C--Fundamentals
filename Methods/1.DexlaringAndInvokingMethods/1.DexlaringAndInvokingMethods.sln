@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.DexlaringAndInvokingMethods", "1.DexlaringAndInvokingMethods\1.DexlaringAndInvokingMethods.csproj", "{D3DEC9B0-6662-44C8-AC04-6C950E5AE16E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3DEC9B0-6662-44C8-AC04-6C950E5AE16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DEC9B0-6662-44C8-AC04-6C950E5AE16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DEC9B0-6662-44C8-AC04-6C950E5AE16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DEC9B0-6662-44C8-AC04-6C950E5AE16E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85DBD29B-5B71-4C41-A882-FC2194D9CD20}
+	EndGlobalSection
+EndGlobal

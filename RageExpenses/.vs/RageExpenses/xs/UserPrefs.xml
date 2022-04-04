@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D86488DE-69EA-47C7-9BD0-224CA1ABD9B8}|Default">
+  <MonoDevelop.Ide.ItemProperties.RageExpenses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RageExpenses/Program.cs">
+    <Files>
+      <File FileName="RageExpenses/Program.cs" Line="39" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Extreme SSD/SoftUni C# Fundamentals/RageExpenses/RageExpenses/Program.cs" relfile="RageExpenses/Program.cs" line="18" column="1" />
+      <Breakpoint file="/Volumes/Extreme SSD/SoftUni C# Fundamentals/RageExpenses/RageExpenses/Program.cs" relfile="RageExpenses/Program.cs" line="41" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

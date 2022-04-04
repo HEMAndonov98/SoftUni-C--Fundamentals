@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{98B6CA7F-40AA-4BC1-A1C2-B5E109F6F1CF}|Default">
+  <MonoDevelop.Ide.ItemProperties.6.CalculateRectangleArea PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="6.CalculateRectangleArea/Program.cs">
+    <Files>
+      <File FileName="6.CalculateRectangleArea/Program.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

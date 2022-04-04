@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.EncryptSortAndPrintArr", "1.EncryptSortAndPrintArr\1.EncryptSortAndPrintArr.csproj", "{FE109904-A5E9-46CF-8EA4-4AA460C3D1C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE109904-A5E9-46CF-8EA4-4AA460C3D1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE109904-A5E9-46CF-8EA4-4AA460C3D1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE109904-A5E9-46CF-8EA4-4AA460C3D1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE109904-A5E9-46CF-8EA4-4AA460C3D1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9347D31D-0AAC-4316-B9B1-377D2A227792}
+	EndGlobalSection
+EndGlobal

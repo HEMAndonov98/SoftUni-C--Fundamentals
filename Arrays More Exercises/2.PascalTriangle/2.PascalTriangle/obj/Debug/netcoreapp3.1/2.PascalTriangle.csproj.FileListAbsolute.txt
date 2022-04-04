@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/bin/Debug/netcoreapp3.1/2.PascalTriangle.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/bin/Debug/netcoreapp3.1/2.PascalTriangle.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/bin/Debug/netcoreapp3.1/2.PascalTriangle.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/bin/Debug/netcoreapp3.1/2.PascalTriangle.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/bin/Debug/netcoreapp3.1/2.PascalTriangle.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/obj/Debug/netcoreapp3.1/2.PascalTriangle.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/obj/Debug/netcoreapp3.1/2.PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/obj/Debug/netcoreapp3.1/2.PascalTriangle.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/obj/Debug/netcoreapp3.1/2.PascalTriangle.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/obj/Debug/netcoreapp3.1/2.PascalTriangle.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/obj/Debug/netcoreapp3.1/2.PascalTriangle.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/obj/Debug/netcoreapp3.1/2.PascalTriangle.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays More Exercises/2.PascalTriangle/2.PascalTriangle/obj/Debug/netcoreapp3.1/2.PascalTriangle.genruntimeconfig.cache

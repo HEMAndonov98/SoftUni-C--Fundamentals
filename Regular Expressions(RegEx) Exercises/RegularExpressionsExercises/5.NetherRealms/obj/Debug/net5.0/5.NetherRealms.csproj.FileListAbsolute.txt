@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/bin/Debug/net5.0/5.NetherRealms.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/bin/Debug/net5.0/5.NetherRealms.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/bin/Debug/net5.0/5.NetherRealms.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/bin/Debug/net5.0/5.NetherRealms.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/bin/Debug/net5.0/ref/5.NetherRealms.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/bin/Debug/net5.0/5.NetherRealms.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/obj/Debug/net5.0/5.NetherRealms.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/obj/Debug/net5.0/5.NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/obj/Debug/net5.0/5.NetherRealms.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/obj/Debug/net5.0/5.NetherRealms.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/obj/Debug/net5.0/5.NetherRealms.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/obj/Debug/net5.0/5.NetherRealms.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/obj/Debug/net5.0/ref/5.NetherRealms.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/obj/Debug/net5.0/5.NetherRealms.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx) Exercises/RegularExpressionsExercises/5.NetherRealms/obj/Debug/net5.0/5.NetherRealms.genruntimeconfig.cache

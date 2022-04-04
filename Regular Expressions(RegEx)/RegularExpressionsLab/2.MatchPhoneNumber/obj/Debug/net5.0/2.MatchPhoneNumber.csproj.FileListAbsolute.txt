@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/bin/Debug/net5.0/2.MatchPhoneNumber.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/bin/Debug/net5.0/2.MatchPhoneNumber.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/bin/Debug/net5.0/2.MatchPhoneNumber.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/bin/Debug/net5.0/2.MatchPhoneNumber.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/bin/Debug/net5.0/ref/2.MatchPhoneNumber.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/bin/Debug/net5.0/2.MatchPhoneNumber.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/obj/Debug/net5.0/2.MatchPhoneNumber.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/obj/Debug/net5.0/2.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/obj/Debug/net5.0/2.MatchPhoneNumber.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/obj/Debug/net5.0/2.MatchPhoneNumber.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/obj/Debug/net5.0/2.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/obj/Debug/net5.0/2.MatchPhoneNumber.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/obj/Debug/net5.0/ref/2.MatchPhoneNumber.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/obj/Debug/net5.0/2.MatchPhoneNumber.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Regular Expressions(RegEx)/RegularExpressionsLab/2.MatchPhoneNumber/obj/Debug/net5.0/2.MatchPhoneNumber.genruntimeconfig.cache

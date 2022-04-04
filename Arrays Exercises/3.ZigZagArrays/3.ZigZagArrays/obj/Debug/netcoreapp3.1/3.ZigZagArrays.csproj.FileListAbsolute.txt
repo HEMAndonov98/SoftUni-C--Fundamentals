@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/bin/Debug/netcoreapp3.1/3.ZigZagArrays.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/bin/Debug/netcoreapp3.1/3.ZigZagArrays.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/bin/Debug/netcoreapp3.1/3.ZigZagArrays.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/bin/Debug/netcoreapp3.1/3.ZigZagArrays.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/bin/Debug/netcoreapp3.1/3.ZigZagArrays.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/obj/Debug/netcoreapp3.1/3.ZigZagArrays.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/obj/Debug/netcoreapp3.1/3.ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/obj/Debug/netcoreapp3.1/3.ZigZagArrays.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/obj/Debug/netcoreapp3.1/3.ZigZagArrays.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/obj/Debug/netcoreapp3.1/3.ZigZagArrays.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/obj/Debug/netcoreapp3.1/3.ZigZagArrays.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/obj/Debug/netcoreapp3.1/3.ZigZagArrays.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/3.ZigZagArrays/3.ZigZagArrays/obj/Debug/netcoreapp3.1/3.ZigZagArrays.genruntimeconfig.cache

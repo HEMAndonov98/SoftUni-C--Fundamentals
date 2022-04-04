@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/bin/Debug/netcoreapp3.1/2.Articles.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/bin/Debug/netcoreapp3.1/2.Articles.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/bin/Debug/netcoreapp3.1/2.Articles.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/bin/Debug/netcoreapp3.1/2.Articles.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/bin/Debug/netcoreapp3.1/2.Articles.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/obj/Debug/netcoreapp3.1/2.Articles.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/obj/Debug/netcoreapp3.1/2.Articles.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/obj/Debug/netcoreapp3.1/2.Articles.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/obj/Debug/netcoreapp3.1/2.Articles.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/obj/Debug/netcoreapp3.1/2.Articles.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/obj/Debug/netcoreapp3.1/2.Articles.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/obj/Debug/netcoreapp3.1/2.Articles.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Objects and Classes Exercises/2.Articles/2.Articles/obj/Debug/netcoreapp3.1/2.Articles.genruntimeconfig.cache

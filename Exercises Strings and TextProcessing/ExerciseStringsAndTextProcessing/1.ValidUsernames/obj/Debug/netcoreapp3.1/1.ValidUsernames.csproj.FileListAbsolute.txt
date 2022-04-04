@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/bin/Debug/netcoreapp3.1/1.ValidUsernames.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/bin/Debug/netcoreapp3.1/1.ValidUsernames.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/bin/Debug/netcoreapp3.1/1.ValidUsernames.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/bin/Debug/netcoreapp3.1/1.ValidUsernames.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/bin/Debug/netcoreapp3.1/1.ValidUsernames.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/obj/Debug/netcoreapp3.1/1.ValidUsernames.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/obj/Debug/netcoreapp3.1/1.ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/obj/Debug/netcoreapp3.1/1.ValidUsernames.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/obj/Debug/netcoreapp3.1/1.ValidUsernames.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/obj/Debug/netcoreapp3.1/1.ValidUsernames.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/obj/Debug/netcoreapp3.1/1.ValidUsernames.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/obj/Debug/netcoreapp3.1/1.ValidUsernames.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Exercises Strings and TextProcessing/ExerciseStringsAndTextProcessing/1.ValidUsernames/obj/Debug/netcoreapp3.1/1.ValidUsernames.genruntimeconfig.cache

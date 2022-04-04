@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/bin/Debug/netcoreapp3.1/2.OddOccurences.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/bin/Debug/netcoreapp3.1/2.OddOccurences.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/bin/Debug/netcoreapp3.1/2.OddOccurences.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/bin/Debug/netcoreapp3.1/2.OddOccurences.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/bin/Debug/netcoreapp3.1/2.OddOccurences.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/obj/Debug/netcoreapp3.1/2.OddOccurences.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/obj/Debug/netcoreapp3.1/2.OddOccurences.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/obj/Debug/netcoreapp3.1/2.OddOccurences.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/obj/Debug/netcoreapp3.1/2.OddOccurences.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/obj/Debug/netcoreapp3.1/2.OddOccurences.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/obj/Debug/netcoreapp3.1/2.OddOccurences.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/obj/Debug/netcoreapp3.1/2.OddOccurences.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/2.OddOccurences/2.OddOccurences/obj/Debug/netcoreapp3.1/2.OddOccurences.genruntimeconfig.cache

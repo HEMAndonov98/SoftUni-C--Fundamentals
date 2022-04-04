@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/bin/Debug/netcoreapp3.1/4.WordFilter.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/bin/Debug/netcoreapp3.1/4.WordFilter.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/bin/Debug/netcoreapp3.1/4.WordFilter.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/bin/Debug/netcoreapp3.1/4.WordFilter.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/bin/Debug/netcoreapp3.1/4.WordFilter.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/obj/Debug/netcoreapp3.1/4.WordFilter.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/obj/Debug/netcoreapp3.1/4.WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/obj/Debug/netcoreapp3.1/4.WordFilter.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/obj/Debug/netcoreapp3.1/4.WordFilter.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/obj/Debug/netcoreapp3.1/4.WordFilter.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/obj/Debug/netcoreapp3.1/4.WordFilter.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/obj/Debug/netcoreapp3.1/4.WordFilter.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Associative Arrays/4.WordFilter/4.WordFilter/obj/Debug/netcoreapp3.1/4.WordFilter.genruntimeconfig.cache

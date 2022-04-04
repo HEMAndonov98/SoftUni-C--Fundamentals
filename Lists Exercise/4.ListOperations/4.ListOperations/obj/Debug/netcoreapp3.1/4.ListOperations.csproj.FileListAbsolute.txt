@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/obj/Debug/netcoreapp3.1/4.ListOperations.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/obj/Debug/netcoreapp3.1/4.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/obj/Debug/netcoreapp3.1/4.ListOperations.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/obj/Debug/netcoreapp3.1/4.ListOperations.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/obj/Debug/netcoreapp3.1/4.ListOperations.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/bin/Debug/netcoreapp3.1/4.ListOperations.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/bin/Debug/netcoreapp3.1/4.ListOperations.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/bin/Debug/netcoreapp3.1/4.ListOperations.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/bin/Debug/netcoreapp3.1/4.ListOperations.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/bin/Debug/netcoreapp3.1/4.ListOperations.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/obj/Debug/netcoreapp3.1/4.ListOperations.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/obj/Debug/netcoreapp3.1/4.ListOperations.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Lists Exercise/4.ListOperations/4.ListOperations/obj/Debug/netcoreapp3.1/4.ListOperations.genruntimeconfig.cache

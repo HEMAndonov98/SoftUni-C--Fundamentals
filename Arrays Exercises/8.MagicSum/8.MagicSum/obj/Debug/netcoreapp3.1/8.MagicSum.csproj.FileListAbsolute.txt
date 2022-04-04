@@ -1,0 +1,13 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/bin/Debug/netcoreapp3.1/8.MagicSum.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/bin/Debug/netcoreapp3.1/8.MagicSum.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/bin/Debug/netcoreapp3.1/8.MagicSum.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/bin/Debug/netcoreapp3.1/8.MagicSum.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/bin/Debug/netcoreapp3.1/8.MagicSum.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/obj/Debug/netcoreapp3.1/8.MagicSum.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/obj/Debug/netcoreapp3.1/8.MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/obj/Debug/netcoreapp3.1/8.MagicSum.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/obj/Debug/netcoreapp3.1/8.MagicSum.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/obj/Debug/netcoreapp3.1/8.MagicSum.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/obj/Debug/netcoreapp3.1/8.MagicSum.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/obj/Debug/netcoreapp3.1/8.MagicSum.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Arrays Exercises/8.MagicSum/8.MagicSum/obj/Debug/netcoreapp3.1/8.MagicSum.genruntimeconfig.cache

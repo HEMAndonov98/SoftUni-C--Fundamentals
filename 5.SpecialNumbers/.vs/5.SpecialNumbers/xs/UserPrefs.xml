@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E9EE8E69-3F82-4902-86DB-45A620A6D6DC}|Default">
+  <MonoDevelop.Ide.ItemProperties.5.SpecialNumbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="5.SpecialNumbers/Program.cs">
+    <Files>
+      <File FileName="5.SpecialNumbers/Program.cs" Line="21" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Extreme SSD/SoftUni C# Fundamentals/5.SpecialNumbers/5.SpecialNumbers/Program.cs" relfile="5.SpecialNumbers/Program.cs" line="18" column="1" />
+      <Breakpoint file="/Volumes/Extreme SSD/SoftUni C# Fundamentals/5.SpecialNumbers/5.SpecialNumbers/Program.cs" relfile="5.SpecialNumbers/Program.cs" line="16" column="1" />
+      <Breakpoint file="/Volumes/Extreme SSD/SoftUni C# Fundamentals/5.SpecialNumbers/5.SpecialNumbers/Program.cs" relfile="5.SpecialNumbers/Program.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

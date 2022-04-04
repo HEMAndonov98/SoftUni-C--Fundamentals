@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{25D5EDAD-2B59-485A-B2FC-D90AF51CBC1C}|Default">
+  <MonoDevelop.Ide.ItemProperties.7.WaterOverflow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="7.WaterOverflow/Program.cs">
+    <Files>
+      <File FileName="7.WaterOverflow/Program.cs" Line="29" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

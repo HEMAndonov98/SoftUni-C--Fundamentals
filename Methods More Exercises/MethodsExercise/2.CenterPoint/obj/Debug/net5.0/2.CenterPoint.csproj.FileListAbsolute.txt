@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/obj/Debug/net5.0/2.CenterPoint.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/obj/Debug/net5.0/2.CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/obj/Debug/net5.0/2.CenterPoint.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/obj/Debug/net5.0/2.CenterPoint.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/obj/Debug/net5.0/2.CenterPoint.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/bin/Debug/net5.0/2.CenterPoint.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/bin/Debug/net5.0/2.CenterPoint.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/bin/Debug/net5.0/2.CenterPoint.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/bin/Debug/net5.0/2.CenterPoint.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/bin/Debug/net5.0/ref/2.CenterPoint.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/bin/Debug/net5.0/2.CenterPoint.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/obj/Debug/net5.0/2.CenterPoint.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/obj/Debug/net5.0/ref/2.CenterPoint.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/obj/Debug/net5.0/2.CenterPoint.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/2.CenterPoint/obj/Debug/net5.0/2.CenterPoint.genruntimeconfig.cache

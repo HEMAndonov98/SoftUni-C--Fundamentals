@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/bin/Debug/net5.0/1.DataTypes.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/bin/Debug/net5.0/1.DataTypes.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/bin/Debug/net5.0/1.DataTypes.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/bin/Debug/net5.0/1.DataTypes.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/bin/Debug/net5.0/ref/1.DataTypes.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/bin/Debug/net5.0/1.DataTypes.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/obj/Debug/net5.0/1.DataTypes.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/obj/Debug/net5.0/1.DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/obj/Debug/net5.0/1.DataTypes.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/obj/Debug/net5.0/1.DataTypes.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/obj/Debug/net5.0/1.DataTypes.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/obj/Debug/net5.0/1.DataTypes.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/obj/Debug/net5.0/ref/1.DataTypes.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/obj/Debug/net5.0/1.DataTypes.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/1.DataTypes/obj/Debug/net5.0/1.DataTypes.genruntimeconfig.cache

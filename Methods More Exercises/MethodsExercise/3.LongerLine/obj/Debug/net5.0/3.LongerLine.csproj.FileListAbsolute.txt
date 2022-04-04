@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/obj/Debug/net5.0/3.LongerLine.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/obj/Debug/net5.0/3.LongerLine.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/obj/Debug/net5.0/3.LongerLine.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/obj/Debug/net5.0/3.LongerLine.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/obj/Debug/net5.0/3.LongerLine.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/bin/Debug/net5.0/3.LongerLine.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/bin/Debug/net5.0/3.LongerLine.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/bin/Debug/net5.0/3.LongerLine.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/bin/Debug/net5.0/3.LongerLine.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/bin/Debug/net5.0/ref/3.LongerLine.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/bin/Debug/net5.0/3.LongerLine.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/obj/Debug/net5.0/3.LongerLine.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/obj/Debug/net5.0/ref/3.LongerLine.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/obj/Debug/net5.0/3.LongerLine.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/3.LongerLine/obj/Debug/net5.0/3.LongerLine.genruntimeconfig.cache

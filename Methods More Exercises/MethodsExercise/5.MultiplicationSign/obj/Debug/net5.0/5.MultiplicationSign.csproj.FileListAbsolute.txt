@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/bin/Debug/net5.0/5.MultiplicationSign.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/bin/Debug/net5.0/5.MultiplicationSign.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/bin/Debug/net5.0/5.MultiplicationSign.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/bin/Debug/net5.0/5.MultiplicationSign.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/bin/Debug/net5.0/ref/5.MultiplicationSign.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/bin/Debug/net5.0/5.MultiplicationSign.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/obj/Debug/net5.0/5.MultiplicationSign.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/obj/Debug/net5.0/5.MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/obj/Debug/net5.0/5.MultiplicationSign.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/obj/Debug/net5.0/5.MultiplicationSign.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/obj/Debug/net5.0/5.MultiplicationSign.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/obj/Debug/net5.0/5.MultiplicationSign.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/obj/Debug/net5.0/ref/5.MultiplicationSign.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/obj/Debug/net5.0/5.MultiplicationSign.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/5.MultiplicationSign/obj/Debug/net5.0/5.MultiplicationSign.genruntimeconfig.cache

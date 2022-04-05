@@ -1,0 +1,15 @@
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/bin/Debug/net5.0/4.TribonacciSequence.deps.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/bin/Debug/net5.0/4.TribonacciSequence.runtimeconfig.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/bin/Debug/net5.0/4.TribonacciSequence.runtimeconfig.dev.json
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/bin/Debug/net5.0/4.TribonacciSequence.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/bin/Debug/net5.0/ref/4.TribonacciSequence.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/bin/Debug/net5.0/4.TribonacciSequence.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/obj/Debug/net5.0/4.TribonacciSequence.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/obj/Debug/net5.0/4.TribonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/obj/Debug/net5.0/4.TribonacciSequence.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/obj/Debug/net5.0/4.TribonacciSequence.AssemblyInfo.cs
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/obj/Debug/net5.0/4.TribonacciSequence.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/obj/Debug/net5.0/4.TribonacciSequence.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/obj/Debug/net5.0/ref/4.TribonacciSequence.dll
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/obj/Debug/net5.0/4.TribonacciSequence.pdb
+/Volumes/Extreme SSD/SoftUni C# Fundamentals/Methods More Exercises/MethodsExercise/4.TribonacciSequence/obj/Debug/net5.0/4.TribonacciSequence.genruntimeconfig.cache

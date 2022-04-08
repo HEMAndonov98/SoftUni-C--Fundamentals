@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.CarRace", "2.CarRace\2.Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.TakeOrSkipRope", "3.TakeOrSkipRope\3.TakeOrSkipRope.csproj", "{A841EF03-FA62-453F-AA38-D61680FCD65B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.MixedUpLists", "4.MixedUpLists\4.MixedUpLists.csproj", "{B15C1139-2B8F-4EDF-88D4-6C6E1A563E16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A841EF03-FA62-453F-AA38-D61680FCD65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A841EF03-FA62-453F-AA38-D61680FCD65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A841EF03-FA62-453F-AA38-D61680FCD65B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15C1139-2B8F-4EDF-88D4-6C6E1A563E16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15C1139-2B8F-4EDF-88D4-6C6E1A563E16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15C1139-2B8F-4EDF-88D4-6C6E1A563E16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15C1139-2B8F-4EDF-88D4-6C6E1A563E16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

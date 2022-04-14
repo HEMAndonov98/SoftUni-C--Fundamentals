@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.SpeedRacing", "3.SpeedRac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.RawData", "4.RawData\4.RawData.csproj", "{AC438644-9DE7-409F-9A44-A22DF728AE90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.ShoppingSpree", "5.ShoppingSpree\5.ShoppingSpree.csproj", "{65132914-952D-4664-AB03-7C1956BDCE0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AC438644-9DE7-409F-9A44-A22DF728AE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC438644-9DE7-409F-9A44-A22DF728AE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC438644-9DE7-409F-9A44-A22DF728AE90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65132914-952D-4664-AB03-7C1956BDCE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65132914-952D-4664-AB03-7C1956BDCE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65132914-952D-4664-AB03-7C1956BDCE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65132914-952D-4664-AB03-7C1956BDCE0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

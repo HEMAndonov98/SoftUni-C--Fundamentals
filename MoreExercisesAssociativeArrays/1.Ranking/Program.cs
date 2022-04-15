@@ -79,6 +79,7 @@ namespace _1.Ranking
             }
             participants = participants.OrderByDescending(p => p.Value.TotalPoints).ToDictionary(p => p.Key, p => p.Value);
             Console.WriteLine($"Best candidate is {participants.First().Key} with total {participants.First().Value.TotalPoints} points.");
+            Console.WriteLine("Ranking:");
 
             participants = participants.OrderBy(p => p.Key).ToDictionary(p => p.Key, p => p.Value);
 

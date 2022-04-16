@@ -4,106 +4,123 @@ using System.Linq;
 
 namespace _1.Ranking
 {
-    class ContestRecord
-    {
-        public ContestRecord()
-        {
-            this.ParticipatedContests = new Dictionary<string, int>();
-            this.TotalPoints = 0;
-        }
-
-        public Dictionary<string, int> ParticipatedContests { get; set; }
-        public int TotalPoints { get; set; }
-
-        public void AddContest(string contestName, int points)
-        {
-            if (ParticipatedContests.ContainsKey(contestName))
-            {
-                if (this.ParticipatedContests[contestName] > points)
-                {
-                    return;
-                }
-            }
-            
-            this.ParticipatedContests[contestName] = points;
-            this.TotalPoints += points;
-        }
-
-        public void SortContests()
-        {
-            this.ParticipatedContests = this.ParticipatedContests.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
-        }
-    }
-
     class Program
     {
         static void Main(string[] args)
         {
             Dictionary<string, string> contests = new Dictionary<string, string>();
+            AddContests(contests);
 
-            string contestInput;
-            string contestName = string.Empty;
-            string contestPassword = string.Empty;
-            while ((contestInput = Console.ReadLine()) != "end of contests")
+            Dictionary<string, Dictionary<string, int>> submissions = new Dictionary<string, Dictionary<string, int>>();
+            AddSubmissions(submissions, contests);
+            
+            PrintBestCandidate(submissions);
+            PrintRanking(submissions);
+        }
+        static void AddContests(Dictionary<string, string> contests)
+        {
+            string input;
+            string[] tokens;
+            string contestName;
+            string contestPass;
+
+            while ((input = Console.ReadLine()) != "end of contests")
             {
-                string[] contestArgs = contestInput.Split(':', StringSplitOptions.RemoveEmptyEntries);
-                contestName = contestArgs[0];
-                contestPassword = contestArgs[1];
+                tokens = input.Split(':', StringSplitOptions.RemoveEmptyEntries);
+                contestName = tokens[0];
+                contestPass = tokens[1];
 
-                contests[contestName] = contestPassword;
+                if (!contests.ContainsKey(contestName))
+                {
+                    contests[contestName] = contestPass;
+                }
             }
+        }
 
-            Dictionary<string, ContestRecord> participants = new Dictionary<string, ContestRecord>();
+        static void AddSubmissions(Dictionary<string, Dictionary<string, int>> submissions, Dictionary<string, string> contests)
+        {
+            string input;
+            string[] tokens;
+            string contestName;
+            string contestPass;
 
-            string contestCommand;
-            while ((contestCommand = Console.ReadLine()) != "end of submissions")
+            while ((input = Console.ReadLine()) != "end of submissions")
             {
-                string[] commandArgs = contestCommand.Split("=>", StringSplitOptions.RemoveEmptyEntries);
-                contestName = commandArgs[0];
-                contestPassword = commandArgs[1];
+                tokens = input.Split("=>", StringSplitOptions.RemoveEmptyEntries);
+                contestName = tokens[0];
+                contestPass = tokens[1];
 
-                if (!ValidateContest(contests, contestName, contestPassword))
+                if (!contests.ContainsKey(contestName) || contests[contestName] != contestPass)
                 {
                     continue;
                 }
 
-                string contestantName = commandArgs[2];
-                int pointsEarned = int.Parse(commandArgs[3]);
+                string username = tokens[2];
+                int points = int.Parse(tokens[3]);
 
-                if (!participants.ContainsKey(contestantName))
-                {
-                    participants[contestantName] = new ContestRecord();
-                }
-                participants[contestantName].AddContest(contestName, pointsEarned);
-
+                AddSubmission(username, contestName, points, submissions);
             }
-            participants = participants.OrderByDescending(p => p.Value.TotalPoints).ToDictionary(p => p.Key, p => p.Value);
-            Console.WriteLine($"Best candidate is {participants.First().Key} with total {participants.First().Value.TotalPoints} points.");
+        }
+
+        static void AddSubmission(string username, string contestName, int points, Dictionary<string, Dictionary<string, int>> submissions)
+        {
+            if (!submissions.ContainsKey(username))
+            {
+                submissions[username] = new Dictionary<string, int>();
+            }
+
+            if (submissions[username].ContainsKey(contestName))
+            {
+                if (submissions[username][contestName] < points)
+                {
+                    submissions[username][contestName] = points;
+                }
+            }
+
+            if (!submissions[username].ContainsKey(contestName))
+            {
+                submissions[username][contestName] = points;
+            }
+        }
+
+        static void PrintBestCandidate(Dictionary<string, Dictionary<string, int>> submissions)
+        {
+            string bestCandidate = string.Empty;
+            int mostPoints = 0;
+
+            foreach (var submission in submissions)
+            {
+                //The Value of the Dictionary is another dictionary with <string, int> KVP, here we take i'ts values and sum them.
+                int currCandidateMaxPoints = submission.Value.Values.Sum(); 
+
+                if (currCandidateMaxPoints > mostPoints)
+                {
+                    mostPoints = currCandidateMaxPoints;
+                    //The keyValue is the candidates username.
+                    bestCandidate = submission.Key; 
+                }
+            }
+
+            Console.WriteLine($"Best candidate is {bestCandidate} with total {mostPoints} points.");
+        }
+
+        static void PrintRanking(Dictionary<string, Dictionary<string, int>> submissions)
+        {
             Console.WriteLine("Ranking:");
 
-            participants = participants.OrderBy(p => p.Key).ToDictionary(p => p.Key, p => p.Value);
-
-            foreach (var participant in participants)
+            submissions = submissions.OrderBy(s => s.Key).ToDictionary(s => s.Key, s => s.Value);
+            foreach (var submission in submissions)
             {
-                participant.Value.SortContests();
-                Console.WriteLine(participant.Key);
-                foreach (var contest in participant.Value.ParticipatedContests)
+                Dictionary<string, int> contests = submission.Value.OrderByDescending(c => c.Value).ToDictionary(c => c.Key, c => c.Value);
+                //submission.Key is the username of the candidate
+                Console.WriteLine(submission.Key);
+
+                foreach (var contest in contests)
                 {
                     Console.WriteLine($"#  {contest.Key} -> {contest.Value}");
                 }
             }
         }
 
-        static bool ValidateContest(Dictionary<string, string> contests,
-            string contestName,
-            string contestPassword)
-        {
-            if (contests.ContainsKey(contestName) && contests[contestName] == contestPassword)
-            {
-                return true;
-            }
-
-            return false;
-        }
     }
 }

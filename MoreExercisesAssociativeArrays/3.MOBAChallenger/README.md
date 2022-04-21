@@ -41,13 +41,9 @@ The output format for each player is:
 Examples
 
 Peter -> Adc -> 400
-
 George -> Jungle -> 300
-
 Sam -> Mid -> 200
-
 Sam -> Support -> 250
-
 Season end
 
 Output

@@ -34,7 +34,7 @@ The output format is: "({hatColor}) {name} <-> {physics}"
 
 ## Examples
 
-| Input                                                                                                                                    | Output                                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Input | Output |
+|---|---|
 | Peter <:> Red <:> 2000 Tony <:> Blue <:> 1000 George <:> Green <:> 1000 Sam <:> Yellow <:> 4500 John <:> Black <:> 1000 Once upon a time | (Yellow) Sam <-> 4500 (Red) Peter <-> 2000 (Blue) Tony <-> 1000 (Green) George <-> 1000 (Black) John <-> 1000 |
-| Peter <:> Red <:> 5000 Peter <:> Blue <:> 10000 Peter <:> Red <:> 10000 George <:> Blue <:> 10000 Once upon a time                       | (Blue) Peter <-> 10000 (Blue) George <-> 10000 (Red) Peter <-> 10000                                          |
+| Peter <:> Red <:> 5000 Peter <:> Blue <:> 10000 Peter <:> Red <:> 10000 George <:> Blue <:> 10000 Once upon a time | (Blue) Peter <-> 10000 (Blue) George <-> 10000 (Red) Peter <-> 10000  |          |

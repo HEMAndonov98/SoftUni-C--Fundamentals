@@ -17,11 +17,12 @@ namespace _4.SnowWhite
         public string HatColor { get; set; }
         public int Physics { get; set; }
     }
+
     class Program
     {
         static void Main(string[] args)
         {
-            Dictionary<string, Dictionary<string, int>> dwarfs = new Dictionary<string, Dictionary<string, int>>();
+            Dictionary<string, Dictionary<string, int>> dwarves = new Dictionary<string, Dictionary<string, int>>();
 
             string input;
 
@@ -32,40 +33,37 @@ namespace _4.SnowWhite
                 string dwarfHatColor = tokens[1];
                 int dwarfPhysics = int.Parse(tokens[2]);
 
-                if (!dwarfs.ContainsKey(dwarfHatColor))
+                if (!dwarves.ContainsKey(dwarfHatColor))
                 {
-                    dwarfs[dwarfHatColor] = new Dictionary<string, int>();
+                    dwarves[dwarfHatColor] = new Dictionary<string, int>();
                 }
 
-                if (dwarfs[dwarfHatColor].ContainsKey(dwarfName))
+                if (dwarves[dwarfHatColor].ContainsKey(dwarfName))
                 {
-                    if (dwarfs[dwarfHatColor][dwarfName] < dwarfPhysics)
+                    if (dwarves[dwarfHatColor][dwarfName] < dwarfPhysics)
                     {
-                        dwarfs[dwarfHatColor][dwarfName] = dwarfPhysics;
+                        dwarves[dwarfHatColor][dwarfName] = dwarfPhysics;
                     }
                 }
 
-                if (!dwarfs[dwarfHatColor].ContainsKey(dwarfName))
+                if (!dwarves[dwarfHatColor].ContainsKey(dwarfName))
                 {
-                    dwarfs[dwarfHatColor][dwarfName] = dwarfPhysics;
+                    dwarves[dwarfHatColor][dwarfName] = dwarfPhysics;
                 }
             }
 
-            dwarfs = dwarfs
-                .OrderByDescending(x => x.Value.Values.Max())
-                .ThenByDescending(x => x.Value.Count)
+            dwarves = dwarves
+                .OrderByDescending(x => x.Value.Count)
                 .ToDictionary(x => x.Key, x => x.Value);
-
+                
             List<Dwarf> result = new List<Dwarf>();
 
-            foreach (var kvp in dwarfs)
+            foreach (var kvp in dwarves)
             {
                 Dictionary<string, int> currentDwarves = kvp.Value;
       
-
                 foreach (var dwarf in currentDwarves)
                 {
-                    //Console.WriteLine($"({kvp.Key}) {dwarf.Key} <-> {dwarf.Value}");
 
                     string name = dwarf.Key;
                     string color = kvp.Key;
